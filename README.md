@@ -6,6 +6,6 @@ Each meeting is in a folder labeled by the date of the meeting. Below is a list 
 
 | Meeting Title                                     | Date              |
 |---------------------------------------------------|-------------------|
-| [Kickoff Portal 2](https://github.com/) | 15/07, 2022 |
+| [Kickoff Portal 2](https://github.com/scholokov/qax-portal-2/blob/main/Kickoff%20Portal%202/) | 15/07, 2022 |
 
 <!-- |                                              |      |      |     | -->
