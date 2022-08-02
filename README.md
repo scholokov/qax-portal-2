@@ -6,8 +6,8 @@ Each meeting is in a folder labeled by the date of the meeting. Below is a list 
 
 | Meeting Title                                     | Date              |
 |---------------------------------------------------|-------------------|
-| [Kickoff Portal 2](https://github.com/scholokov/qax-portal-2/blob/main/Kickoff%20Portal%202/) | 15/07, 2022 |
-| [20/07/2022 Meeting](https://github.com/scholokov/qax-portal-2/blob/main/20.07.22%20Meeting) | 20/07, 2022 |
-| [27/07/2022 Meeting](https://github.com/) | 27/07, 2022 |
+| [Kickoff Portal 2](https://github.com/scholokov/qax-portal-2/commit/d1bf28c76709ff0a22dfd0980353c61b7e03b0f4) | 15/07, 2022 |
+| [20/07/2022 Meeting](https://github.com/scholokov/qax-portal-2/commit/c48ddf47111db8771e0fbbfa28ea2c901f6a13bb) | 22/07, 2022 |
+| [27/07/2022 Meeting](https://github.com/scholokov/qax-portal-2/commit/35113f25e81d7ac38a938851c90a0cada75b77ed) | 29/07, 2022 |
 
 <!-- |                                              |      |      |     | -->
