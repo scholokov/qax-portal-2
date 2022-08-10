@@ -16,6 +16,6 @@ Each meeting is in a folder labeled by the date of the meeting. Below is a list 
 | [Meeting notes](Meeting%20notes%2005.08.22.md) | 05/08/2022 |
 | [Meeting notes](Meeting%20notes%2003.08.22.md) | 03/08/2022 |
 | [Meeting notes](Meeting%20notes%2029.07.22.md) | 29/07/2022 |
-| [Meeting notes](Meeting%20notes%2022.07.22.md) | 22/07/2022 |
+| [Meeting notes](Meeting%20notes/Meeting%20notes%2022.07.22.md) | 22/07/2022 |
 | [Kickoff Portal 2](kick%20off/Kickoff%20Portal%202.md) | 15/07/2022 |
 <!-- |                                              |      |      |     | -->
