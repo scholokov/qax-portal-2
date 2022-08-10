@@ -4,6 +4,8 @@
 
 ![QAX](https://user-images.githubusercontent.com/72439798/183895287-16881555-2ad2-4f11-85ee-51354901f216.PNG)
 
+<img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
+
 Our new project that started on 15/07/2022. 
 It'll be portal of our courses for students. Here you can find our product: https://portal.qax-camp.com.ua/  
 
