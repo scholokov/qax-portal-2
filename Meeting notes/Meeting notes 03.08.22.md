@@ -1,4 +1,4 @@
-## Meeting notes 29.07.22
+## Meeting notes 03.08.22
 
 ### Action items:  
 
