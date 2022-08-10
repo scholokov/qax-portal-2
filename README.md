@@ -1,7 +1,6 @@
 ## QAX Сamp&Portal
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QAX+Practice+Job_offer)](https://git.io/typing-svg)
-
 ![QAX](https://user-images.githubusercontent.com/72439798/183895287-16881555-2ad2-4f11-85ee-51354901f216.PNG)
 
 Our new project that started on 15/07/2022. 
