@@ -1,8 +1,8 @@
-## QAX Portal
+## QAX Сamp&Portal
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QAX+Practice+Job_offer)](https://git.io/typing-svg)
 
-![QAX](https://user-images.githubusercontent.com/72439798/183751934-2c4537c1-e200-42fd-883d-ce3f3abc2b33.PNG)
+![QAX](https://user-images.githubusercontent.com/72439798/183895287-16881555-2ad2-4f11-85ee-51354901f216.PNG)
 
 Our new project that started on 15/07/2022. 
 It'll be portal of our courses for students. Here you can find our product: https://portal.qax-camp.com.ua/  
