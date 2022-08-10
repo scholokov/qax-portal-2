@@ -1,4 +1,6 @@
-## Kickoff Portal
+# Kickoff Portal
+
+## Action items:
 
 - [ ] Нужен спейс в ГитХабе
 - [ ] Оформить Contact List для РО - доступы ГитХаб. Каждый участник вносит свои данные.
