@@ -8,7 +8,7 @@
 
 Our new project that started on 15/07/2022 💪
 
-It'll be portal of our courses for students. 
+It'll be portal of our courses for students. :octocat: 
 
 Here you can find our product: https://portal.qax-camp.com.ua/ 🦸 
 
