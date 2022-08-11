@@ -1,4 +1,4 @@
-## QAX Сamp&Portal :octocat:
+## :octopus: QAX Сamp&Portal :octopus:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QAX+Practice+Job_offer)](https://git.io/typing-svg)
 
