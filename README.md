@@ -12,7 +12,7 @@ It'll be portal of our courses for students. :octocat:
 
 Here you can find our product: https://portal.qax-camp.com.ua/ 🦸 
 
-Each meeting is in a folder labeled by the date of the meeting. Below is a list of meetings that link the the meeting's folder.
+Each meeting is in a folder labeled by the date of the meeting. Below is a list of meetings that link the the meeting's folder. :book:
 
 ### List of meetings ✍️ 
 
