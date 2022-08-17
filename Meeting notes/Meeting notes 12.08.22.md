@@ -9,6 +9,8 @@ How to do registration Form in Portal
 
 How to do footer on all pages 
 
+How to do courses page 
+
 ### Action items: 
 
 Form UI/UX: https://github.com/scholokov/qax-portal-2/issues/29 
