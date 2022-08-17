@@ -11,10 +11,16 @@ How to do footer on all pages
 
 Form UI/UX: https://github.com/scholokov/qax-portal-2/issues/29 
 
-Footer UI/UX: https://github.com/scholokov/qax-portal-2/issues/30 
+Footer UI/UX: https://github.com/scholokov/qax-portal-2/issues/30 - изменить ховер  
 
 Area of study UI/UX: https://github.com/scholokov/qax-portal-2/issues/31
 
 About us page UI/UX: https://github.com/scholokov/qax-portal-2/issues/32
 
 Changes in home page UI/UX: https://github.com/scholokov/qax-portal-2/issues/34  
+
+Create task for Dev home page: 
+
+Create requirements for home page: 
+
+Create task for Dev our trainers 
