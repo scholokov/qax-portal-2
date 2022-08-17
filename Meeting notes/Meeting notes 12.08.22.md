@@ -1,4 +1,4 @@
-## Meeting notes 10.08.22
+## Meeting notes 12.08.22
 
 ### Discussion topics:
 Content of about us page https://qax-camp.com.ua/about_us.php  
