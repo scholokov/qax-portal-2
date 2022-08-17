@@ -9,7 +9,7 @@ How to do registration Form in Portal
 
 How to do footer on all pages 
 
-How to do courses page 
+How to do courses page/ change menu 
 
 ### Action items: 
 
