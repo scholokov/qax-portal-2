@@ -13,4 +13,5 @@
 - [ ] Create flow for student registration, authorization and chat. So we need full flow for user, like user story.  
 - [ ] Create chat without registration form, ask only about name.
 - [ ] Button "Записатись" add form with full list of data from potential student 
-- [ ] If 
+- [ ] Decide about where we need to add contract to portal @scholokov @RChornyi 
+- [ ]  
