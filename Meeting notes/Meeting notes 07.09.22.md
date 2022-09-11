@@ -22,6 +22,7 @@
 - [ ] Requirements for page with tests @scholokov  
 - [ ] Add button "Згорнути" to succes page @AlonaSarapina UI/UX  
 - [ ] Add bug Q2 Base course @Olesia Bezukh
+- [ ] Check greeting on Figma once more @BatalovaOlha 
 
 ## Decisions 
 - [ ] Workflow for user the same as in Camp. Form the same as in Camp with the same functions. 
