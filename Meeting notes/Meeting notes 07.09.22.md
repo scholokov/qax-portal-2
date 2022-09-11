@@ -22,7 +22,8 @@
 - [ ] Requirements for page with tests @scholokov  
 - [ ] Add button "Згорнути" to succes page @AlonaSarapina UI/UX  
 - [ ] Add bug Q2 Base course @Olesia Bezukh
-- [ ] Check greeting on Figma once more @BatalovaOlha 
+- [ ] Check greeting on Figma once more @BatalovaOlh. Create bug for @AlonaSarapina 
+- [ ] Create new design for course page https://portal.qax-camp.com.ua/courses/q2-basic-cource/ 
 
 ## Decisions 
 - [ ] Workflow for user the same as in Camp. Form the same as in Camp with the same functions. 
