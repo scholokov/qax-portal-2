@@ -14,7 +14,7 @@
 - [ ] Fix bugs in team workflow @KaterinaNimenko35 
 - [ ] Design of page for registration form @AlonaSarapina UI/UX 
 - [ ] Send us examples of placing a contract on the website in footer @BatalovaOlha than create task for UI/UX 
-- [ ] Change epics on the board @ABatalov. Add new one: Lessons, Tests, Topics, Esse, Exams, Courses.   
+- [x] Change epics on the board @ABatalov. Add new one: Lessons, Tests, Topics, Esse, Exams, Courses.   
 - [ ] Create draft of the content for courses page:  "turnkey" offer, practice subscription, courses of your choice. Content should be relevant to scheme in structure: https://github.com/scholokov/qax-portal-2/wiki/Structure  @Svitlana Prytulenko
 - [ ] Change placement of the button "back" on courses page @AlonaSarapina UI/UX 
 - [ ] Add new HR course to design in Figma @AlonaSarapina UI/UX 
