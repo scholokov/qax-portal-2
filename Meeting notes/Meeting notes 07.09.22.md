@@ -10,7 +10,7 @@
 
 ## Action items:  
 
-- [ ] Create 5 tasks about tests: https://docs.google.com/document/d/1e67_f2WRXYPTl1FyxLAD35EO3zMqC0c-uah9T-oJIMY/edit - test names must be relevant to lecture names. 
+- [X] Create 5 tasks about tests: https://docs.google.com/document/d/1e67_f2WRXYPTl1FyxLAD35EO3zMqC0c-uah9T-oJIMY/edit - test names must be relevant to lecture names. 
 - [ ] Fix bugs in team workflow @KaterinaNimenko35 
 - [ ] Design of page for registration form @AlonaSarapina UI/UX 
 - [ ] Send us examples of placing a contract on the website in footer @BatalovaOlha than create task for UI/UX 
