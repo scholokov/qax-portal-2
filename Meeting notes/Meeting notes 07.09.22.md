@@ -4,6 +4,8 @@
 
 - [ ] Flow for user 
 - [ ] Flow for team 
+- [ ] Epics on board  
+- [ ] Design
 
 
 ## Action items:  
@@ -18,6 +20,7 @@
 - [ ] Add new HR course to design in Figma @AlonaSarapina UI/UX 
 - [ ] Do one variant courses page with fewer buttons @AlonaSarapina UI/UX  
 - [ ] Requirements for page with tests @scholokov  
+- [ ] Add button "Згорнути" to succes page @AlonaSarapina UI/UX  
 
 ## Decisions 
 - [ ] Workflow for user the same as in Camp. Form the same as in Camp with the same functions. 
