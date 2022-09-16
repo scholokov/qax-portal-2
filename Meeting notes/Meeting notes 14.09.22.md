@@ -36,4 +36,4 @@
 
 ## Think about: 
 
-- [ ] How to reset user statistics of lesson (every lessons or some another flow) - add task in backlog   
+- [ ] How to reset user statistics of lesson (every lessons or some another flow) - add task in backlog @ABatalov
