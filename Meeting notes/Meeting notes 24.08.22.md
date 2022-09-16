@@ -1,4 +1,4 @@
-# Meeting notes 24.08.22 [Draft] 
+# Meeting notes 24.08.22
 
 ## Discussion topics: 
 
