@@ -10,30 +10,30 @@
 
 ## Action items:  
 
-- [ ] Fix last bugs in team workflow @KaterinaNimenko35 
-- [ ] Сheck requirements of Form @scholokov 
-- [ ] Add task to create design of Login page: https://portal.qax-camp.com.ua/login/ @ButKoff UI/UX
-- [ ] Add task to create design of Register page: https://portal.qax-camp.com.ua/register/ @ButKoff UI/UX
-- [ ] Add task to create design of Password-reset page: https://portal.qax-camp.com.ua/password-reset/ @ButKoff UI/UX 
-- [ ] Add task to create design of Privacy-policy page: https://qax-camp.com.ua/privacy_policy.php @ButKoff UI/UX 
-- [ ] Add task to create variants courses design with one, two, three and four buttons @ButKoff UI/UX
-- [ ] Add task to update design of footer with link to the contract @ABatalov UI/UX
-- [ ] Add task to remake design of lesson page (change images with examples) @ABatalov UI/UX 
-- [ ] Add task for QA team of tests page @ABatalov QA  
+- [ ] Fix last bugs in team workflow [Katerina Nimenko](https://github.com/KaterinaNimenko35)
+- [ ] Сheck requirements of Form [Denis Scholokov](https://github.com/scholokov) 
+- [ ] Add task to create design of Login page: https://portal.qax-camp.com.ua/login/ UI/UX [Andrey Butkov](https://github.com/ButKoff) 
+- [ ] Add task to create design of Register page: https://portal.qax-camp.com.ua/register/ UI/UX [Andrey Butkov](https://github.com/ButKoff) 
+- [ ] Add task to create design of Password-reset page: https://portal.qax-camp.com.ua/password-reset/ UI/UX [Andrey Butkov](https://github.com/ButKoff) 
+- [ ] Add task to create design of Privacy-policy page: https://qax-camp.com.ua/privacy_policy.php UI/UX [Andrey Butkov](https://github.com/ButKoff) 
+- [ ] Add task to create variants courses design with one, two, three and four buttons UI/UX [Andrey Butkov](https://github.com/ButKoff) 
+- [ ] Add task to update design of footer with link to the contract [Alex Batalov](https://github.com/ABatalov) UI/UX
+- [ ] Add task to remake design of lesson page (change images with examples) [Alex Batalov](https://github.com/ABatalov) UI/UX 
+- [ ] Add task for QA team of tests page [Alex Batalov](https://github.com/ABatalov) QA  
 - [ ] Check all updates in design of course page: https://portal.qax-camp.com.ua/courses/q2-basic-cource/ for all team 
-- [ ] Create new requirements in Wiki. @ABatalov, @scholokov 
-- [ ] Add bug to remove words "collapse/expand" and add arrow to tablet and mobile @dmitryylev UI/UX 
-- [ ] Add bug to add new icons on the footer @dmitryylev Dev
-- [ ] Add bug about not corresponding font on the website @dmitryylev Dev 
-- [ ] Add bug to add button in design @dmitryylev UI/UX (also show Alyona design in implementation on website)  
+- [ ] Create new requirements in Wiki. [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov)
+- [ ] Add bug to remove words "collapse/expand" and add arrow to tablet and mobile [Dmitriy Levkovskiy](https://github.com/dmitryylev) UI/UX 
+- [ ] Add bug to add new icons on the footer [Dmitriy Levkovskiy](https://github.com/dmitryylev) Dev
+- [ ] Add bug about not corresponding font on the website [Dmitriy Levkovskiy](https://github.com/dmitryylev) Dev 
+- [ ] Add bug to add button in design [Dmitriy Levkovskiy](https://github.com/dmitryylev) UI/UX (also show Alyona design in implementation on website)  
 
 
 ## Still not resolved tasks: 
 
 - [ ] Create draft of the content for courses page:  "turnkey" offer, practice subscription, courses of your choice. Content should be relevant to scheme in structure: https://github.com/scholokov/qax-portal-2/wiki/Structure  @Svitlana Prytulenko
-- [ ] Requirements for page with tests @scholokov 
-- [ ] Add new HR course to design in Figma @AlonaSarapina UI/UX - Waiting of the content of this page @Svitlana Prytulenko  
+- [ ] Requirements for page with tests [Denis Scholokov](https://github.com/scholokov) 
+- [ ] Add new HR course to design in Figma [AlonaSarapina](https://github.com/AlonaSarapina)  UI/UX - Waiting of the content of this page @Svitlana Prytulenko  
 
 ## Think about: 
 
-- [ ] How to reset user statistics of lesson (every lessons or some another flow) - add task in backlog @ABatalov
+- [ ] How to reset user statistics of lesson (every lessons or some another flow) - add task in backlog [Alex Batalov](https://github.com/ABatalov)
