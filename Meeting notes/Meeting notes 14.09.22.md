@@ -12,7 +12,7 @@
 
 - [ ] Fix last bugs in team workflow [Katerina Nimenko](https://github.com/KaterinaNimenko35)
 - [ ] Сheck requirements of Form [Denis Scholokov](https://github.com/scholokov) 
-- [ ] Add task to create design of Login page: https://portal.qax-camp.com.ua/login/ UI/UX [Andrey Butkov](https://github.com/ButKoff) 
+- [x] Add task to create design of Login page: https://portal.qax-camp.com.ua/login/ UI/UX [Andrey Butkov](https://github.com/ButKoff) 
 - [ ] Add task to create design of Register page: https://portal.qax-camp.com.ua/register/ UI/UX [Andrey Butkov](https://github.com/ButKoff) 
 - [ ] Add task to create design of Password-reset page: https://portal.qax-camp.com.ua/password-reset/ UI/UX [Andrey Butkov](https://github.com/ButKoff) 
 - [ ] Add task to create design of Privacy-policy page: https://qax-camp.com.ua/privacy_policy.php UI/UX [Andrey Butkov](https://github.com/ButKoff) 
