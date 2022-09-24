@@ -2,10 +2,10 @@
 
 ## Discussion topics:  
 
-- [ ] Content of courses page 
-- [ ] Flow for team 
-- [ ] Epics on board  
-- [ ] Design 
+- [x] Content of courses page 
+- [x] Flow for team 
+- [x] Epics on board  
+- [x] Design 
 
 
 ## Action items:  
