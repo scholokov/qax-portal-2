@@ -19,14 +19,14 @@
 - [ ] Add task for QA to check Our trainers page [Alex Batalov](https://github.com/ABatalov) 
 - [x] Add to Wiki details for Footer logos [Alex Batalov](https://github.com/ABatalov) 
 - [ ] Add task to update design of Footer according to Wiki https://github.com/scholokov/qax-portal-2/wiki/Footer UI/UX [Andrey Butkov](https://github.com/ButKoff) 
-- [ ] Add task to craete design of Button "Login" UI/UX [Andrey Butkov](https://github.com/ButKoff) 
+- [ ] Add task to create design of Button "Login" UI/UX [Andrey Butkov](https://github.com/ButKoff) 
 - [ ] Create requirements of main menu [Alex Batalov](https://github.com/ABatalov) 
 - [ ] Add task for login and logout for UI/UX design with two different icons [Alex Batalov](https://github.com/ABatalov) 
 - [ ] Remove "Головна" from main menu [Alex Batalov](https://github.com/ABatalov)
 - [ ] Add button logout to main menu in Wiki [Alex Batalov](https://github.com/ABatalov) 
 - [ ] Add bugs for page with tests UI/UX design [Lesia Bezukh](https://github.com/LesiaBezukh)
 - [ ] Send your photo to [Denis Scholokov](https://github.com/scholokov) - [Roman Chornyi](https://github.com/RChornyi)
-- [ ] Creare start content for our Chat @Svitlana Prytulenko  
+- [ ] Create start content for our Chat @Svitlana Prytulenko  
 - [ ] Add task to create new images for Home page UI/UX [Andrey Butkov](https://github.com/ButKoff) - but first check, may be this task has already created.  
 
 ## Still not resolved tasks:  
