@@ -25,11 +25,12 @@
 - [ ] Remove "Головна" from main menu [Alex Batalov](https://github.com/ABatalov)
 - [ ] Add button logout to main menu in Wiki [Alex Batalov](https://github.com/ABatalov) 
 - [ ] Add bugs for page with tests UI/UX design [Lesia Bezukh](https://github.com/LesiaBezukh)
+- [ ] Send your photo to [Denis Scholokov](https://github.com/scholokov) - [Roman Chornyi](https://github.com/RChornyi)
 
 ## Still not resolved tasks:  
 - [ ] Create draft of the content for courses page: courses of your choice. Content should be relevant to scheme in structure: https://github.com/scholokov/qax-portal-2/wiki/Structure  @Svitlana Prytulenko
 - [ ] Add new HR course to design in Figma [AlonaSarapina](https://github.com/AlonaSarapina)  UI/UX - Waiting of the content of this page @Svitlana Prytulenko 
 - [ ] Create new requirements in Wiki. [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov)
 
-
 ## Think about:  
+- [ ] Content for FAQ (frequently asked question) @Svitlana Prytulenko, [Roman Chornyi](https://github.com/RChornyi)
