@@ -27,6 +27,7 @@
 - [ ] Add bugs for page with tests UI/UX design [Lesia Bezukh](https://github.com/LesiaBezukh)
 - [ ] Send your photo to [Denis Scholokov](https://github.com/scholokov) - [Roman Chornyi](https://github.com/RChornyi)
 - [ ] Creare start content for our Chat @Svitlana Prytulenko  
+- [ ] Add task to create new images for Home page UI/UX [Andrey Butkov](https://github.com/ButKoff) - but first check, may be this task has already created.  
 
 ## Still not resolved tasks:  
 - [ ] Create draft of the content for courses page: courses of your choice. Content should be relevant to scheme in structure: https://github.com/scholokov/qax-portal-2/wiki/Structure  @Svitlana Prytulenko
