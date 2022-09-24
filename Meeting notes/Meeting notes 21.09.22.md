@@ -26,6 +26,7 @@
 - [ ] Add button logout to main menu in Wiki [Alex Batalov](https://github.com/ABatalov) 
 - [ ] Add bugs for page with tests UI/UX design [Lesia Bezukh](https://github.com/LesiaBezukh)
 - [ ] Send your photo to [Denis Scholokov](https://github.com/scholokov) - [Roman Chornyi](https://github.com/RChornyi)
+- [ ] Creare start content for our Chat @Svitlana Prytulenko  
 
 ## Still not resolved tasks:  
 - [ ] Create draft of the content for courses page: courses of your choice. Content should be relevant to scheme in structure: https://github.com/scholokov/qax-portal-2/wiki/Structure  @Svitlana Prytulenko
