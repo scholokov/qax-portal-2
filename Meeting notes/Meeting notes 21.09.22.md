@@ -22,13 +22,13 @@
 - [ ] Add task to update design of Footer according to Wiki https://github.com/scholokov/qax-portal-2/wiki/Footer UI/UX [Andrey Butkov](https://github.com/ButKoff) 
 - [ ] Add task to create design of Button "Login" UI/UX [Andrey Butkov](https://github.com/ButKoff) 
 - [x] Create requirements of main menu [Alex Batalov](https://github.com/ABatalov) 
-- [ ] Add task for login and logout for UI/UX design with two different icons [Alex Batalov](https://github.com/ABatalov) 
-- [ ] Remove "Головна" from main menu [Alex Batalov](https://github.com/ABatalov)
-- [ ] Add button logout to main menu in Wiki [Alex Batalov](https://github.com/ABatalov) 
+- [x] Add task for login and logout for UI/UX design with two different icons [Alex Batalov](https://github.com/ABatalov) 
+- [x] Remove "Головна" from main menu [Alex Batalov](https://github.com/ABatalov)
+- [x] Add button login/logout to main menu in Wiki [Alex Batalov](https://github.com/ABatalov) 
 - [ ] Add bugs for page with tests UI/UX design [Lesia Bezukh](https://github.com/LesiaBezukh)
 - [ ] Send your photo to [Denis Scholokov](https://github.com/scholokov) - [Roman Chornyi](https://github.com/RChornyi)
 - [ ] Create start content for our Chat @Svitlana Prytulenko  
-- [ ] Add task to create new images for Home page UI/UX [Andrey Butkov](https://github.com/ButKoff) - but first check, may be this task has already created. @Svitlana Prytulenko send to PM images that you likes.   
+- [ ] Add task to create new images for Home page UI/UX [Andrey Butkov](https://github.com/ButKoff) - but first check, may be this task has already created. @Svitlana Prytulenko sended to PM images that she likes.   
 
 ## Still not resolved tasks:  
 - [ ] Create draft of the content for courses page: courses of your choice. Content should be relevant to scheme in structure: https://github.com/scholokov/qax-portal-2/wiki/Structure  @Svitlana Prytulenko
