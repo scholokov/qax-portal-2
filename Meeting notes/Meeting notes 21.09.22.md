@@ -31,7 +31,7 @@
 - [ ] Add task to create new images for Home page UI/UX [Andrey Butkov](https://github.com/ButKoff) - but first check, may be this task has already created. @Svitlana Prytulenko sended to PM images that she likes.   
 
 ## Still not resolved tasks:  
-- [ ] Create draft of the content for courses page: courses of your choice. Content should be relevant to scheme in structure: https://github.com/scholokov/qax-portal-2/wiki/Structure  @Svitlana Prytulenko
+- [x] Create draft of the content for courses page: courses of your choice. Content should be relevant to scheme in structure: https://github.com/scholokov/qax-portal-2/wiki/Structure  @Svitlana Prytulenko
 - [ ] Add new HR course to design in Figma [AlonaSarapina](https://github.com/AlonaSarapina)  UI/UX - Waiting of the content of this page @Svitlana Prytulenko 
 - [ ] Create new requirements in Wiki. [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov)
 
