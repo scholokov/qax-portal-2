@@ -19,7 +19,7 @@
 - [x] Add task for QA to check About us page [Alex Batalov](https://github.com/ABatalov)
 - [x] Add task for QA to check Our trainers page [Alex Batalov](https://github.com/ABatalov) 
 - [x] Add to Wiki details for Footer logos [Alex Batalov](https://github.com/ABatalov) 
-- [ ] Add task to update design of Footer according to Wiki https://github.com/scholokov/qax-portal-2/wiki/Footer UI/UX [Andrey Butkov](https://github.com/ButKoff) 
+- [x] Add task to update design of Footer according to Wiki https://github.com/scholokov/qax-portal-2/wiki/Footer UI/UX [Andrey Butkov](https://github.com/ButKoff) 
 - [ ] Add task to create design of Button "Login" UI/UX [Andrey Butkov](https://github.com/ButKoff) 
 - [x] Create requirements of main menu [Alex Batalov](https://github.com/ABatalov) 
 - [x] Add task for login and logout for UI/UX design with two different icons [Alex Batalov](https://github.com/ABatalov) 
