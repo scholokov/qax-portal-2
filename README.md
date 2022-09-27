@@ -12,9 +12,10 @@ It'll be portal of our courses for students. :octocat:
 
 Here you can find our product: https://portal.qax-camp.com.ua/ 🦸 
 
+YouTube: [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/channels4_profile.jpg?raw=true)](https://www.youtube.com/channel/UCXXCVCk7gw0aa8T0a6cx7Ow)
+
 Each meeting is in a folder labeled by the date of the meeting. Below is a list of meetings that link the the meeting's folder. :book:
 
-[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/channels4_profile.jpg?raw=true)](https://www.youtube.com/channel/UCXXCVCk7gw0aa8T0a6cx7Ow)
 
 ### List of meetings ✍️ 
 
