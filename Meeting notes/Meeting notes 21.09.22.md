@@ -11,7 +11,7 @@
 - [x] Add "turnkey" offer - to Requirements [Alex Batalov](https://github.com/ABatalov) 
 - [x] Add screens of workflow to Wiki  [Alex Batalov](https://github.com/ABatalov)  
 - [x] Change title of task about form and move it to ready for testing UI/UX [Andrey Butkov](https://github.com/ButKoff)  
-- [ ] Think about button "Return" UI/UX [Andrey Butkov](https://github.com/ButKoff) 
+- [x] Think about button "Return" UI/UX [Andrey Butkov](https://github.com/ButKoff) 
 - [x] Add design of about us page to Portal Figma UI/UX [Andrey Butkov](https://github.com/ButKoff)   
 - [x] Check all updates in design of course page with implementation: https://portal.qax-camp.com.ua/courses/q2-basic-cource/ for all team [Alex Batalov](https://github.com/ABatalov) 
 - [x] Fix bugs of content in Wiki [Alex Batalov](https://github.com/ABatalov)  
