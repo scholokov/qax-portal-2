@@ -10,7 +10,13 @@ Our new project that started on 15/07/2022 💪
 
 It'll be portal of our courses for students. :octocat: 
 
-Here you can find our product: https://portal.qax-camp.com.ua/ 🦸 
+LinkedIn: https://www.linkedin.com/company/qax-camp/mycompany/
+
+Instagram: https://www.instagram.com/qax_camp/?igshid=YmMyMTA2M2Y%3D
+
+Facebook: https://www.facebook.com/qax.camp/
+
+Web: https://portal.qax-camp.com.ua/ 🦸 
 
 YouTube: [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/channels4_profile.jpg?raw=true)](https://www.youtube.com/channel/UCXXCVCk7gw0aa8T0a6cx7Ow)
 
