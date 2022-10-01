@@ -12,7 +12,7 @@
 
 ## Action items:    
 
-:black_square_button: Very important task to speed up Courses page and Registration and Authorizatio [Alex Batalov](https://github.com/ABatalov), [Andrey Butkov](https://github.com/ButKoff), [Denis Scholokov](https://github.com/scholokov) 
+:black_square_button: Very important  to accelerate tasks Courses page, Registration and Authorization [Alex Batalov](https://github.com/ABatalov), [Andrey Butkov](https://github.com/ButKoff), [Denis Scholokov](https://github.com/scholokov) 
 
 :white_check_mark: Add label MVP_1 to epics [Alex Batalov](https://github.com/ABatalov)
 
