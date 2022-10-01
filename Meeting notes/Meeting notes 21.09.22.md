@@ -44,11 +44,11 @@
 
 :white_check_mark: Add button login/logout to main menu in Wiki [Alex Batalov](https://github.com/ABatalov) 
 
-:black_square_button: Add bugs for page with tests UI/UX design [Lesia Bezukh](https://github.com/LesiaBezukh)
+:white_check_mark: Add bugs for page with tests UI/UX design [Lesia Bezukh](https://github.com/LesiaBezukh)
 
 :black_square_button: Send your photo to [Denis Scholokov](https://github.com/scholokov) - [Roman Chornyi](https://github.com/RChornyi)
 
-:black_square_button: Create start content for our Chat @Svitlana Prytulenko  
+:white_check_mark: Create start content for our Chat @Svitlana Prytulenko  
 
 :black_square_button: Add task to create new images for Home page UI/UX [Andrey Butkov](https://github.com/ButKoff) - but first check, may be this task has already created. @Svitlana Prytulenko sended to PM images that she likes.   
 
