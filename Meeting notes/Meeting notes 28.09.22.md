@@ -37,11 +37,9 @@
 :black_square_button: Correct tast login/logout for [AlonaSarapina] UI/UX design - returt button Записатись [Alex Batalov](https://github.com/ABatalov)
 
 
-
 ## Still not resolved tasks:  
-:black_square_button: Send your photo to [Denis Scholokov](https://github.com/scholokov) - [Roman Chornyi](https://github.com/RChornyi)
-
-
+:white_check_mark: Send your photo to [Denis Scholokov](https://github.com/scholokov) - [Roman Chornyi](https://github.com/RChornyi)
+https://github.com/scholokov/qax-portal-2/issues/179 
 
 ## Think about: 
 
