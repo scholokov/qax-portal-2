@@ -34,7 +34,9 @@
 
 :black_square_button: Create new requirements in Wiki of essу, comments [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
-:black_square_button: Correct tast login/logout for [AlonaSarapina] UI/UX design - returt button Записатись [Alex Batalov](https://github.com/ABatalov)
+:black_square_button: Correct tast login/logout for [AlonaSarapina] UI/UX design - returt button Записатись [Alex Batalov](https://github.com/ABatalov) 
+
+:black_square_button: Check Form [Dmitriy Levkovskiy](https://github.com/dmitryylev), [BatalovaOlha](https://github.com/BatalovaOlha) https://github.com/scholokov/qax-portal-2/issues/163 
 
 
 ## Still not resolved tasks:  
