@@ -12,19 +12,29 @@
 
 ## Action items:    
 
+:black_square_button: Very important task to speed up Courses page and Registration and Authorizatio [Alex Batalov](https://github.com/ABatalov), [Andrey Butkov](https://github.com/ButKoff), [Denis Scholokov](https://github.com/scholokov) 
+
 :white_check_mark: Add label MVP_1 to epics [Alex Batalov](https://github.com/ABatalov)
 
 :white_check_mark: Create the list of epics for MVP release [Alex Batalov](https://github.com/ABatalov)
 
 | Epic                |    MVP  | NAME |Status |
 |---------------------|---------|------|-------|   
-|https://github.com/scholokov/qax-portal-2/issues/56 |YES| Home page| Testing|
-|https://github.com/scholokov/qax-portal-2/issues/57|YES| About us page|Testing|
-|https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Testing|
+|https://github.com/scholokov/qax-portal-2/issues/56 |YES| Home page| Ready for testing|
+|https://github.com/scholokov/qax-portal-2/issues/57|YES| About us page| Resolved |
+|https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Ready for testing|
 |https://github.com/scholokov/qax-portal-2/issues/58|YES|Courses page |Still not resolved |
 |https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Still not resolved| 
 
-:black_square_button: Add task to create new images for Home page UI/UX [Andrey Butkov](https://github.com/ButKoff) @Svitlana Prytulenko sended to PM images that she likes.   
+:black_square_button: Add task to create new images for Home page UI/UX [Andrey Butkov](https://github.com/ButKoff) @Svitlana Prytulenko sended to PM images that she likes. 
+
+:black_square_button: Add task to UI/UX - update image of Home Page  [Andrey Butkov](https://github.com/ButKoff)
+
+:black_square_button: Create new requirements in Wiki of registration and autorisation [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
+
+:black_square_button: Create new requirements in Wiki of essу, comments [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
+
+:black_square_button: Correct tast login/logout for [AlonaSarapina] UI/UX design - returt button Записатись [Alex Batalov](https://github.com/ABatalov)
 
 
 
