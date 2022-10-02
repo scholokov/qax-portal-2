@@ -6,12 +6,12 @@
 
 <img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
 
-Our new project that started on 15/07/2022 💪
+### Our new project that started on 15/07/2022 💪
 
-It'll be portal of our courses for students. :octocat: 
+### It'll be portal of our courses for students. :octocat: 
 
-[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/linkedin-logo-3.png)](https://www.linkedin.com/company/qax-camp/mycompany) 
-
+### All our resources you can find below:
+ 
 [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/instagram-png-instagram-png-logo-1455-1024x1024.png)](https://www.instagram.com/qax_camp/?igshid=YmMyMTA2M2Y%3D)
 
 [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/facebook-icon-logo-C61047A9E7-seeklogo.com.png)](https://www.facebook.com/qax.camp) 
