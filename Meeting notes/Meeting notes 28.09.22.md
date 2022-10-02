@@ -28,7 +28,8 @@
 
 :black_square_button: Add task to create new images for Home page UI/UX [Andrey Butkov](https://github.com/ButKoff) @Svitlana Prytulenko sent to PM images that she choosed. 
 
-:black_square_button: Add task to UI/UX - create new manu for courses page  [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)
+:black_square_button: Add task to UI/UX - create new manu for courses page  [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) 
+here is proposal: [Courses page](https://github.com/scholokov/qax-portal-2/blob/main/drive/Courses%20page1.jpg)  [Courses page](https://github.com/scholokov/qax-portal-2/blob/main/drive/Courses%20page2.jpg)
 
 :black_square_button: Create new requirements in Wiki of registration and autorisation [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
