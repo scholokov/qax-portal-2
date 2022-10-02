@@ -28,7 +28,7 @@
 
 :black_square_button: Add task to create new images for Home page UI/UX [Andrey Butkov](https://github.com/ButKoff) @Svitlana Prytulenko sent to PM images that she choosed. 
 
-:black_square_button: Add task to UI/UX - update image of Home Page  [Andrey Butkov](https://github.com/ButKoff)
+:black_square_button: Add task to UI/UX - create new manu for courses page  [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)
 
 :black_square_button: Create new requirements in Wiki of registration and autorisation [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
