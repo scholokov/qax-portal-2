@@ -16,7 +16,7 @@ It'll be portal of our courses for students. :octocat:
 
 [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/facebook-icon-logo-C61047A9E7-seeklogo.com.png)](https://www.facebook.com/qax.camp) 
 
-[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/channels4_profile.jpg?raw=true)](https://www.youtube.com/channel/UCXXCVCk7gw0aa8T0a6cx7Ow)
+[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/2560px-Logo_of_YouTube_(2015-2017).svg.png)](https://www.youtube.com/channel/UCXXCVCk7gw0aa8T0a6cx7Ow)
 
 Web: https://portal.qax-camp.com.ua/ 🦸 
 
