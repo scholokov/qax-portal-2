@@ -14,7 +14,7 @@ It'll be portal of our courses for students. :octocat:
 
 Instagram: https://www.instagram.com/qax_camp/?igshid=YmMyMTA2M2Y%3D
 
-Facebook: https://www.facebook.com/qax.camp/
+[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/facebook-icon-logo-C61047A9E7-seeklogo.com.png)](https://www.facebook.com/qax.camp) 
 
 Web: https://portal.qax-camp.com.ua/ 🦸 
 
