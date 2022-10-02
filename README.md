@@ -18,7 +18,7 @@ It'll be portal of our courses for students. :octocat:
 
 [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/2560px-Logo_of_YouTube_(2015-2017).svg.png)](https://www.youtube.com/channel/UCXXCVCk7gw0aa8T0a6cx7Ow)
 
-Web: https://portal.qax-camp.com.ua/ 🦸 
+[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)](https://portal.qax-camp.com.ua)  
 
 Each meeting is in a folder labeled by the date of the meeting. Below is a list of meetings that link the the meeting's folder. :book:
 
