@@ -10,7 +10,7 @@ Our new project that started on 15/07/2022 💪
 
 It'll be portal of our courses for students. :octocat: 
 
-LinkedIn: [](https://www.linkedin.com/company/qax-camp/mycompany) 
+LinkedIn: [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png)](https://www.linkedin.com/company/qax-camp/mycompany) 
 
 Instagram: https://www.instagram.com/qax_camp/?igshid=YmMyMTA2M2Y%3D
 
