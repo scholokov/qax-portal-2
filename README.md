@@ -12,13 +12,13 @@ It'll be portal of our courses for students. :octocat:
 
 [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/linkedin-logo-3.png)](https://www.linkedin.com/company/qax-camp/mycompany) 
 
-Instagram: https://www.instagram.com/qax_camp/?igshid=YmMyMTA2M2Y%3D
+[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/instagram-png-instagram-png-logo-1455-1024x1024.png)](https://www.instagram.com/qax_camp/?igshid=YmMyMTA2M2Y%3D)
 
 [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/facebook-icon-logo-C61047A9E7-seeklogo.com.png)](https://www.facebook.com/qax.camp) 
 
-Web: https://portal.qax-camp.com.ua/ 🦸 
-
 [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/channels4_profile.jpg?raw=true)](https://www.youtube.com/channel/UCXXCVCk7gw0aa8T0a6cx7Ow)
+
+Web: https://portal.qax-camp.com.ua/ 🦸 
 
 Each meeting is in a folder labeled by the date of the meeting. Below is a list of meetings that link the the meeting's folder. :book:
 
