@@ -26,7 +26,7 @@
 |https://github.com/scholokov/qax-portal-2/issues/58|YES|Courses page |Still not resolved |
 |https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Still not resolved| 
 
-:black_square_button: Add task to create new images for Home page UI/UX [Andrey Butkov](https://github.com/ButKoff) @Svitlana Prytulenko sended to PM images that she likes. 
+:black_square_button: Add task to create new images for Home page UI/UX [Andrey Butkov](https://github.com/ButKoff) @Svitlana Prytulenko sent to PM images that she choosed. 
 
 :black_square_button: Add task to UI/UX - update image of Home Page  [Andrey Butkov](https://github.com/ButKoff)
 
