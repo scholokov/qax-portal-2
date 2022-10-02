@@ -10,7 +10,7 @@ Our new project that started on 15/07/2022 💪
 
 It'll be portal of our courses for students. :octocat: 
 
-LinkedIn: [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png)](https://www.linkedin.com/company/qax-camp/mycompany) 
+[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/linkedin-logo-3.png)](https://www.linkedin.com/company/qax-camp/mycompany) 
 
 Instagram: https://www.instagram.com/qax_camp/?igshid=YmMyMTA2M2Y%3D
 
@@ -18,7 +18,7 @@ Facebook: https://www.facebook.com/qax.camp/
 
 Web: https://portal.qax-camp.com.ua/ 🦸 
 
-YouTube: [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/channels4_profile.jpg?raw=true)](https://www.youtube.com/channel/UCXXCVCk7gw0aa8T0a6cx7Ow)
+[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/channels4_profile.jpg?raw=true)](https://www.youtube.com/channel/UCXXCVCk7gw0aa8T0a6cx7Ow)
 
 Each meeting is in a folder labeled by the date of the meeting. Below is a list of meetings that link the the meeting's folder. :book:
 
