@@ -39,7 +39,7 @@ here is proposal: ![QAX](https://github.com/scholokov/qax-portal-2/blob/main/dri
 
 :black_square_button: Check Form [Dmitriy Levkovskiy](https://github.com/dmitryylev), [BatalovaOlha](https://github.com/BatalovaOlha) https://github.com/scholokov/qax-portal-2/issues/163 
 
-:black_square_button: Add task for UI/IX design to update image on About us page [Andrey Butkov](https://github.com/ButKoff)  
+:white_check_mark: Add task for UI/IX design to update image on About us page [Andrey Butkov](https://github.com/ButKoff)  
 [About us page image from Sveta](https://github.com/scholokov/qax-portal-2/blob/main/drive/20220930_231336_0000_720.png)
 
 
