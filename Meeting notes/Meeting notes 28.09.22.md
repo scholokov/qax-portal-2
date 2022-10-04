@@ -33,7 +33,7 @@ here is proposal: ![QAX](https://github.com/scholokov/qax-portal-2/blob/main/dri
 
 :black_square_button: Create new requirements in Wiki of registration and autorisation [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
-:black_square_button: Create new requirements in Wiki of essу, comments [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
+:black_square_button: Create new requirements in Wiki of Essay and Comments [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
 :white_check_mark: Correct task login/logout for [AlonaSarapina] UI/UX design - returt button Записатись [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/166
 
