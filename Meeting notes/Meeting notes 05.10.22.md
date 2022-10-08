@@ -46,6 +46,9 @@
 
 :black_square_button: - update requirements of Chat [Alex Batalov](https://github.com/ABatalov)   
 
+:white_check_mark: - Task for testing Chat 
+
+
 
 ## Desisions: 
 
