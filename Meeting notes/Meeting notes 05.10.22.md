@@ -30,7 +30,9 @@
 
 ## Desisions: 
 
-For MVP Registration and Authorization we need only Registrarion form - Task https://github.com/scholokov/qax-portal-2/issues/111 
+For Epic Registration and Authorization MVP https://github.com/scholokov/qax-portal-2/issues/62 we need only Registrarion form - Task https://github.com/scholokov/qax-portal-2/issues/111 
+
+
 
 ## Still not resolved tasks:   
 
