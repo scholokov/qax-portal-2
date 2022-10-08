@@ -37,9 +37,11 @@
 
 For Epic Registration and Authorization MVP https://github.com/scholokov/qax-portal-2/issues/62 we need only Registrarion form - Task https://github.com/scholokov/qax-portal-2/issues/111 and Task Login and Logout: https://github.com/scholokov/qax-portal-2/issues/166#issuecomment-1268670093 
 
-For Epic About us page https://github.com/scholokov/qax-portal-2/issues/57 - we can do release without image
+For Epic About us page https://github.com/scholokov/qax-portal-2/issues/57 - we can do release without image. 
 
-Waiting from [Denis Scholokov](https://github.com/scholokov) information about other courses.  
+For QA team - add bugs which are related to Epics with MVP label 
+
+Waiting information about other courses from [Denis Scholokov](https://github.com/scholokov).    
 
 ## Still not resolved tasks:   
 
