@@ -40,6 +40,8 @@
 
 :black_square_button: For QA team, please take this Task  https://github.com/scholokov/qax-portal-2/issues/165 for testing 
 
+:white_check_mark: Change name of label from MVP_1 to MVP [Alex Batalov](https://github.com/ABatalov)   
+
 
 ## Desisions: 
 
