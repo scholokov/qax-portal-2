@@ -59,6 +59,8 @@ Waiting information about other courses from [Denis Scholokov](https://github.co
 
 Button "Згорнути" - this task for new Release 
 
+For first release - Form send only email, next release we need feature with Email and Telegram  
+
 ## Still not resolved tasks:   
 
 
