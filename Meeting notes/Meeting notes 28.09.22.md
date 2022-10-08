@@ -12,7 +12,7 @@
 
 ## Action items:    
 
-:black_square_button: Very important  to accelerate tasks Courses page, Registration and Authorization [Alex Batalov](https://github.com/ABatalov), [Andrey Butkov](https://github.com/ButKoff), [Denis Scholokov](https://github.com/scholokov) 
+:white_check_mark: Very important  to accelerate tasks Courses page, Registration and Authorization [Alex Batalov](https://github.com/ABatalov), [Andrey Butkov](https://github.com/ButKoff), [Denis Scholokov](https://github.com/scholokov) 
 
 :white_check_mark: Add label MVP_1 to epics [Alex Batalov](https://github.com/ABatalov)
 
@@ -37,7 +37,7 @@ here is proposal: ![QAX](https://github.com/scholokov/qax-portal-2/blob/main/dri
 
 :white_check_mark: Correct task login/logout for [AlonaSarapina] UI/UX design - returt button Записатись [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/166
 
-:black_square_button: Check Form [Dmitriy Levkovskiy](https://github.com/dmitryylev), [BatalovaOlha](https://github.com/BatalovaOlha) https://github.com/scholokov/qax-portal-2/issues/163 
+:white_check_mark: Check Form [Dmitriy Levkovskiy](https://github.com/dmitryylev), [BatalovaOlha](https://github.com/BatalovaOlha) https://github.com/scholokov/qax-portal-2/issues/163 
 
 :white_check_mark: Add task for UI/IX design to update image on About us page [Andrey Butkov](https://github.com/ButKoff)  
 [About us page image from Sveta](https://github.com/scholokov/qax-portal-2/blob/main/drive/20220930_231336_0000_720.png)
