@@ -18,8 +18,8 @@
 |---------------------|---------|------|-------|   
 |https://github.com/scholokov/qax-portal-2/issues/56 |YES| Home page| Testing|
 |https://github.com/scholokov/qax-portal-2/issues/57|YES| About us page| Resolved|
-|https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Testing|
 |https://github.com/scholokov/qax-portal-2/issues/58|YES|Courses page |Design|
+|https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Testing|
 |https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Design|  
 
 :black_square_button: Create new requirements in Wiki of registration and autorisation [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
