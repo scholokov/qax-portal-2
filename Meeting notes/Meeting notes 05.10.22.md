@@ -41,7 +41,7 @@
 
 ## Desisions: 
 
-For Epic Registration and Authorization MVP https://github.com/scholokov/qax-portal-2/issues/62 we need only Registrarion form - Task https://github.com/scholokov/qax-portal-2/issues/111 and Task Login and Logout: https://github.com/scholokov/qax-portal-2/issues/166#issuecomment-1268670093 
+For Epic Registration and Authorization MVP https://github.com/scholokov/qax-portal-2/issues/62 we need Registrarion form - Task https://github.com/scholokov/qax-portal-2/issues/111 and Task Login and Logout: https://github.com/scholokov/qax-portal-2/issues/166#issuecomment-1268670093 for Release 
 
 For Epic About us page https://github.com/scholokov/qax-portal-2/issues/57 - we can do release without image. 
 
