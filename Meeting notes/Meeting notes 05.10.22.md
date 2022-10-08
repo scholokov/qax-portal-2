@@ -28,16 +28,20 @@
 
 :white_check_mark: Add comment to login and logout for [AlonaSarapina](github.com/AlonaSarapina) https://github.com/scholokov/qax-portal-2/issues/166#issuecomment-1268670093, [Alex Batalov](https://github.com/ABatalov) 
 
-:black_square_button: Change task for UI/UX design Courses page [Alex Batalov](https://github.com/ABatalov)
+:black_square_button: Speed up task for UI/UX design Courses page  https://github.com/scholokov/qax-portal-2/issues/177 - [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) 
+
+:black_square_button: Add comment for Task about image on About us page https://github.com/scholokov/qax-portal-2/issues/187 [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) 
+
 
 ## Desisions: 
 
-For Epic Registration and Authorization MVP https://github.com/scholokov/qax-portal-2/issues/62 we need only Registrarion form - Task https://github.com/scholokov/qax-portal-2/issues/111 and Task Login and Logout: https://github.com/scholokov/qax-portal-2/issues/166#issuecomment-1268670093
+For Epic Registration and Authorization MVP https://github.com/scholokov/qax-portal-2/issues/62 we need only Registrarion form - Task https://github.com/scholokov/qax-portal-2/issues/111 and Task Login and Logout: https://github.com/scholokov/qax-portal-2/issues/166#issuecomment-1268670093 
 
+For Epic About us page https://github.com/scholokov/qax-portal-2/issues/57 - we can do release without image
 
+Waiting from [Denis Scholokov](https://github.com/scholokov) information about other courses.  
 
 ## Still not resolved tasks:   
-
 
 ## Think about:   
 
