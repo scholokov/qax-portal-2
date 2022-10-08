@@ -51,5 +51,8 @@ Waiting information about other courses from [Denis Scholokov](https://github.co
 
 ## Still not resolved tasks:   
 
+
+
 ## Think about:   
 
+:black_square_button: Content for FAQ (frequently asked question) @Svitlana Prytulenko, [Roman Chornyi](https://github.com/RChornyi) 
