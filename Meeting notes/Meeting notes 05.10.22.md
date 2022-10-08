@@ -28,6 +28,10 @@
 
 :white_check_mark: Add comment to login and logout for [AlonaSarapina](github.com/AlonaSarapina) https://github.com/scholokov/qax-portal-2/issues/166#issuecomment-1268670093
 
+## Desisions: 
+
+For MVP Registration and Authorization we need only Registrarion form 
+
 ## Still not resolved tasks:   
 
 
