@@ -30,7 +30,9 @@
 
 :black_square_button: Speed up task for UI/UX design Courses page  https://github.com/scholokov/qax-portal-2/issues/177 - [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) 
 
-:white_check_mark: Add comment for Task about image on About us page https://github.com/scholokov/qax-portal-2/issues/187 [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) 
+:white_check_mark: Add comment for Task about image on About us page https://github.com/scholokov/qax-portal-2/issues/187 [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
+
+:white_check_mark: Move Resolved one of the tasks https://github.com/scholokov/qax-portal-2/issues/165 or https://github.com/scholokov/qax-portal-2/issues/95  
 
 
 ## Desisions: 
