@@ -49,7 +49,9 @@ For Epic About us page https://github.com/scholokov/qax-portal-2/issues/57 - we 
 
 For QA team - add bugs which are related to Epics with MVP label 
 
-Waiting information about other courses from [Denis Scholokov](https://github.com/scholokov).    
+Waiting information about other courses from [Denis Scholokov](https://github.com/scholokov).  
+
+Button "Згорнути" - this task for new Release 
 
 ## Still not resolved tasks:   
 
