@@ -36,7 +36,7 @@
 
 :white_check_mark: Move to Canceled one of the tasks https://github.com/scholokov/qax-portal-2/issues/163 or https://github.com/scholokov/qax-portal-2/issues/186 
 
-:black_square_button: https://github.com/scholokov/qax-portal-2/issues/165 - For QA team, please take this Task for testing 
+:black_square_button: For QA team, please take this Task  https://github.com/scholokov/qax-portal-2/issues/165 for testing 
 
 
 ## Desisions: 
