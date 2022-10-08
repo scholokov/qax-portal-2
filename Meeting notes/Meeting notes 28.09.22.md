@@ -44,6 +44,7 @@ here is proposal: ![QAX](https://github.com/scholokov/qax-portal-2/blob/main/dri
 
 
 ## Still not resolved tasks:  
+
 :white_check_mark: Send your photo to [Denis Scholokov](https://github.com/scholokov) - [Roman Chornyi](https://github.com/RChornyi)
 https://github.com/scholokov/qax-portal-2/issues/179 
 
