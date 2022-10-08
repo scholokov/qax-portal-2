@@ -34,6 +34,8 @@
 
 :white_check_mark: Move to Resolved one of the tasks https://github.com/scholokov/qax-portal-2/issues/165 or https://github.com/scholokov/qax-portal-2/issues/95  
 
+:black_square_button: https://github.com/scholokov/qax-portal-2/issues/165 - For QA team, please take this Task for testing 
+
 
 ## Desisions: 
 
