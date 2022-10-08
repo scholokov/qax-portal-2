@@ -26,7 +26,9 @@
 
 :black_square_button: Create new requirements in Wiki of Essay and Comments [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov)  
 
-:white_check_mark: Add comment to login and logout for [AlonaSarapina](github.com/AlonaSarapina) https://github.com/scholokov/qax-portal-2/issues/166#issuecomment-1268670093
+:white_check_mark: Add comment to login and logout for [AlonaSarapina](github.com/AlonaSarapina) https://github.com/scholokov/qax-portal-2/issues/166#issuecomment-1268670093, [Alex Batalov](https://github.com/ABatalov) 
+
+:black_square_button: Change task for UI/UX design Courses page [Alex Batalov](https://github.com/ABatalov)
 
 ## Desisions: 
 
