@@ -52,17 +52,17 @@
 
 ## Desisions: 
 
-For Epic Registration and Authorization MVP https://github.com/scholokov/qax-portal-2/issues/62 we need Registrarion form - Task https://github.com/scholokov/qax-portal-2/issues/111 and Task Login and Logout: https://github.com/scholokov/qax-portal-2/issues/166#issuecomment-1268670093 for Release 
+- For Epic Registration and Authorization MVP https://github.com/scholokov/qax-portal-2/issues/62 we need Registrarion form - Task https://github.com/scholokov/qax-portal-2/issues/111 and Task Login and Logout: https://github.com/scholokov/qax-portal-2/issues/166#issuecomment-1268670093 for Release 
 
-For Epic About us page https://github.com/scholokov/qax-portal-2/issues/57 - we can do release without image. 
+- For Epic About us page https://github.com/scholokov/qax-portal-2/issues/57 - we can do release without image. 
 
-For QA team - add bugs which are related to Epics with MVP label 
+- For QA team - add bugs which are related to Epics with MVP label 
 
-Waiting information about other courses from [Denis Scholokov](https://github.com/scholokov).  
+- Waiting information about other courses from [Denis Scholokov](https://github.com/scholokov).  
 
-Button "Згорнути" - this task for new Release 
+- Button "Згорнути" - this task for new Release 
 
-For first release - Form send only email, next release we need feature with Email and Telegram  
+- For first release - Form send only email, next release we need feature with Email and Telegram  
 
 ## Still not resolved tasks:   
 
