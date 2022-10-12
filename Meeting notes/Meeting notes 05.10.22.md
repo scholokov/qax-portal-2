@@ -32,7 +32,7 @@
 
 :white_check_mark: Add comment for Task about image on About us page https://github.com/scholokov/qax-portal-2/issues/187 [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
 
-:black_square_button: Create new images for Home page blocks https://github.com/scholokov/qax-portal-2/issues/189 - [Andrey Butkov](https://github.com/ButKoff)
+:white_check_mark: Create new images for Home page blocks https://github.com/scholokov/qax-portal-2/issues/189 - [Andrey Butkov](https://github.com/ButKoff)
 
 :white_check_mark: Move to Resolved one of the tasks https://github.com/scholokov/qax-portal-2/issues/165 or https://github.com/scholokov/qax-portal-2/issues/95  
 
