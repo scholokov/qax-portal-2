@@ -29,6 +29,8 @@
 
 :white_check_mark: Create task to implement Login/Logout in Header - [Alex Batalov](https://github.com/ABatalov)  https://github.com/scholokov/qax-portal-2/issues/216
 
+:white_check_mark: Move tasks from Trello to GitHub - [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/217, https://github.com/scholokov/qax-portal-2/issues/218  
+
 :black_square_button: Design of 404 page Ui/UX - [Andrey Butkov](https://github.com/ButKoff) - Content from @Svitlana Prytulenko 
 
 :black_square_button: We need content for PM and PA from Katya  [Alex Batalov](https://github.com/ABatalov) 
