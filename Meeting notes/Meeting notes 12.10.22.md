@@ -21,6 +21,12 @@
 |https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Testing|
 |https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Design|  
 
+:black_square_button: Create task to implement Login Dev - [Alex Batalov](https://github.com/ABatalov)
+
+:black_square_button: Create task to implement Registration form Dev - [Alex Batalov](https://github.com/ABatalov)
+
+:black_square_button: Create task to implement Password Dev - [Alex Batalov](https://github.com/ABatalov) 
+
 :black_square_button: We need content for PM and PA from Katya  [Alex Batalov](https://github.com/ABatalov) 
 
 :black_square_button: Create content "practica abonement" "offer pid cluch" - @Svitlana Prytulenko 
