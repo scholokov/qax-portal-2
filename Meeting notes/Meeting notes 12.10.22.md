@@ -27,6 +27,12 @@
 
 :black_square_button: Create Sheets in Wiki for techskills (online and records courses) according to product version - [Alex Batalov](https://github.com/ABatalov) 
 
+:black_square_button: Return trainers on trainers page - [Alex Batalov](https://github.com/ABatalov)  
+
+:black_square_button: Move this bug to canceled https://github.com/scholokov/qax-portal-2/issues/183 - [Batalova Olha](https://github.com/BatalovaOlha) 
+
+:black_square_button: Update EXPECTED RESULT of bug https://github.com/scholokov/qax-portal-2/issues/123 - https://portal.qax-camp.com.ua/current_cources/ - Відгуки про курси [Batalova Olha](https://github.com/BatalovaOlha)
+
 :black_square_button: Add bag on photo of Dmytro Markulych Figma and Dev. Last update in Camp Figma:  https://www.figma.com/file/JwKf4NLnNlzrSCaBlbhKu4/QAX-Camp-(Copy)?node-id=4542%3A1268
 
 :black_square_button: Create new requirements in Wiki of registration and autorisation [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
