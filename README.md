@@ -27,6 +27,7 @@ Each meeting is in a folder labeled by the date of the meeting. Below is a list 
 
 | Meeting Title                                     | Date              | 
 |---------------------------------------------------|-------------------|
+| [Meeting notes](Meeting%20notes/Meeting%20notes%2012.10.22.md) | 12/10/2022 |
 | [Meeting notes](Meeting%20notes/Meeting%20notes%2005.10.22.md) | 05/10/2022 |
 | [Meeting notes](Meeting%20notes/Meeting%20notes%2028.09.22.md) | 28/09/2022 |
 | [Meeting notes](Meeting%20notes/Meeting%20notes%2021.09.22.md) | 21/09/2022 |
