@@ -21,13 +21,13 @@
 |https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Testing|
 |https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Design|  
 
-:black_square_button:Create task to implement Login page Dev - [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/214 
+:white_check_mark: Create task to implement Login page Dev - [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/214 
 
 :white_check_mark: Create task to implement Registration form Dev - [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/213 
 
-:black_square_button: Create task to implement Logout page Dev - [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/215 
+:white_check_mark: Create task to implement Logout page Dev - [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/215 
 
-
+:white_check_mark: Create task to implement Login/Logout in Header - [Alex Batalov](https://github.com/ABatalov)  https://github.com/scholokov/qax-portal-2/issues/216
 
 :black_square_button: Design of 404 page Ui/UX - [Andrey Butkov](https://github.com/ButKoff) - Content from @Svitlana Prytulenko 
 
