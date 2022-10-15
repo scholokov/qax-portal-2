@@ -61,7 +61,7 @@
 
 ## Still not resolved tasks:   
 
-
+:black_square_button: Still not resolved tasks with images for Home page https://github.com/scholokov/qax-portal-2/issues/189 [Andrey Butkov](https://github.com/ButKoff) @Svitlana Prytulenko 
 
 ## Think about:   
 
