@@ -21,6 +21,14 @@
 |https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Testing|
 |https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Design|  
 
+:black_square_button: We need content for PM and PA from Katya  [Alex Batalov](https://github.com/ABatalov) 
+
+:black_square_button: Create content "practica abonement" "offer pid cluch" - @Svitlana Prytulenko 
+
+:black_square_button: Create Sheets in Wiki for techskills (online and records courses) according to product version - [Alex Batalov](https://github.com/ABatalov) 
+
+:black_square_button: Add bag on photo of Dmytro Markulych Figma and Dev. Last update in Camp Figma:  https://www.figma.com/file/JwKf4NLnNlzrSCaBlbhKu4/QAX-Camp-(Copy)?node-id=4542%3A1268
+
 :black_square_button: Create new requirements in Wiki of registration and autorisation [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
 :black_square_button: Create new requirements in Wiki of Essay and Comments [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov)   
@@ -32,4 +40,24 @@
 :black_square_button: Add Bugs for [Privacy_policy page](https://portal.qax-camp.com.ua/privacy_policy/) (check button Детальніше in Form, design in Figma and content) - page in [Wiki](https://github.com/scholokov/qax-portal-2/wiki/Privacy-policy) 
 
 ## Desisions: 
+
+- For Epic Registration and Authorization MVP https://github.com/scholokov/qax-portal-2/issues/62 we need Registrarion form - Task https://github.com/scholokov/qax-portal-2/issues/111 and Task Login and Logout: https://github.com/scholokov/qax-portal-2/issues/166#issuecomment-1268670093 for Release 
+
+- For Epic About us page https://github.com/scholokov/qax-portal-2/issues/57 - we can do release without image. 
+
+- For QA team - add bugs which are related to Epics with MVP label 
+
+- Waiting information about other courses from [Denis Scholokov](https://github.com/scholokov). 
+
+
+
+## Still not resolved tasks:   
+
+
+
+## Think about:   
+
+:black_square_button: Content for FAQ (frequently asked question) @Svitlana Prytulenko, [Roman Chornyi](https://github.com/RChornyi) 
+
+
 
