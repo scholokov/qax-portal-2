@@ -57,7 +57,7 @@
 
 :black_square_button: For QA team, please take this Task  https://github.com/scholokov/qax-portal-2/issues/165 for testing 
 
-:black_square_button: Add Bugs for [Privacy_policy page](https://portal.qax-camp.com.ua/privacy_policy/) (check button Детальніше in Form, design in Figma and content) - page in [Wiki](https://github.com/scholokov/qax-portal-2/wiki/Privacy-policy) 
+:white_check_mark: Add Bugs for [Privacy_policy page](https://portal.qax-camp.com.ua/privacy_policy/) (check button Детальніше in Form, design in Figma and content) - page in [Wiki](https://github.com/scholokov/qax-portal-2/wiki/Privacy-policy) - https://github.com/scholokov/qax-portal-2/issues/212
 
 ## Desisions: 
 
