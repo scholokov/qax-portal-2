@@ -47,7 +47,7 @@
 
 :black_square_button: For QA team - add bug about incorrect sizing the page more than HD.  
 
-:black_square_button: Add bag on photo of Dmytro Markulych Figma and Dev. Last update in Camp Figma:  https://www.figma.com/file/JwKf4NLnNlzrSCaBlbhKu4/QAX-Camp-(Copy)?node-id=4542%3A1268
+:white_check_mark: Add bag on photo of Dmytro Markulych Figma and Dev. Last update in Camp Figma:  https://www.figma.com/file/JwKf4NLnNlzrSCaBlbhKu4/QAX-Camp-(Copy)?node-id=4542%3A1268 - https://github.com/scholokov/qax-portal-2/issues/220
 
 :black_square_button: Create new requirements in Wiki of registration and autorisation [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
