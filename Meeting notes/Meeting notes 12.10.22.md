@@ -19,7 +19,7 @@
 |https://github.com/scholokov/qax-portal-2/issues/57|YES| About us page| Design |
 |https://github.com/scholokov/qax-portal-2/issues/58|YES|Courses page |Design|
 |https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Testing|
-|https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Design|  
+|https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Design and dev|  
 
 :white_check_mark: Create task to implement Login page Dev - [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/214 
 
