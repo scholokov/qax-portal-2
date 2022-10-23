@@ -25,7 +25,7 @@
 
 :white_check_mark: Create content "practica abonement" "offer pid cluch" - @Svitlana Prytulenko and update WiKi [Alex Batalov](https://github.com/ABatalov) 
 
-:black_square_button: need content and photo of new trainer BA [Alex Batalov](https://github.com/ABatalov)
+:black_square_button: Need content and photo of new trainer BA [Alex Batalov](https://github.com/ABatalov)
 
 :black_square_button: Create Sheets in Wiki for techskills (online and records courses) according to product version - [Alex Batalov](https://github.com/ABatalov) 
 
