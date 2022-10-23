@@ -41,7 +41,7 @@
 
 :black_square_button: For QA team, please take this Task  https://github.com/scholokov/qax-portal-2/issues/165 for testing 
 
-:black_square_button: For QA team add Bugs to all our Epics 
+:black_square_button: For QA team add Bugs to all our Epics [Dmitrii Nasonov](https://github.com/DmitriiNasonov)
 
 ## Desisions: 
 
