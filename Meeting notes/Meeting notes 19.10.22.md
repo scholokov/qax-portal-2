@@ -47,3 +47,10 @@
 
 - Add new images to About us page 
 
+## Still not resolved tasks:   
+
+:black_square_button: Still not resolved tasks with images for Home page https://github.com/scholokov/qax-portal-2/issues/189 [Andrey Butkov](https://github.com/ButKoff) @Svitlana Prytulenko 
+
+## Think about:   
+
+:black_square_button: Content for FAQ (frequently asked question) @Svitlana Prytulenko, [Roman Chornyi](https://github.com/RChornyi) 
