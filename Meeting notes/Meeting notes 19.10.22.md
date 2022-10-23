@@ -27,7 +27,7 @@
 
 :black_square_button: Create Sheets in Wiki for techskills (online and records courses) according to product version - [Alex Batalov](https://github.com/ABatalov) 
 
-:black_square_button: Return trainers on trainers page - [Alex Batalov](https://github.com/ABatalov)  
+:white_check_mark: Return trainers on trainers page - [Alex Batalov](https://github.com/ABatalov)  
 
 :black_square_button: For QA team - add bug about incorrect sizing the page more than HD. 
 
