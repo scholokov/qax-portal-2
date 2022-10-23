@@ -39,7 +39,7 @@
 
 :black_square_button: Create new requirements in Wiki of Essay and Comments [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov)   
 
-:black_square_button: Make corrections in Wiki bugs in requirements form Camp to Portal [Alex Batalov](https://github.com/ABatalov) 
+:white_check_mark: Make corrections in Wiki bugs in requirements form Camp to Portal [Alex Batalov](https://github.com/ABatalov) 
 
 :black_square_button: For QA team, please take this Task  https://github.com/scholokov/qax-portal-2/issues/165 for testing 
 
