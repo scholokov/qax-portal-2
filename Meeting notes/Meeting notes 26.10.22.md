@@ -34,6 +34,8 @@
 
 :white_check_mark: Create Договір оферти in Wiki [Alex Batalov](https://github.com/ABatalov)  https://github.com/scholokov/qax-portal-2/wiki/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D1%96%D1%80-%D0%BE%D1%84%D0%B5%D1%80%D1%82%D0%B8 
 
+:white_check_mark: Create task for implementation page Договір оферти [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/236
+
 :white_check_mark: Add task for UI/UX page of Esse page [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/238
 
 
