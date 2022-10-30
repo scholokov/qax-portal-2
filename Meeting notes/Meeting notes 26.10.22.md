@@ -32,7 +32,10 @@
 
 :black_square_button: Create new requirements in Wiki of Essay and Comments [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
-:white_check_mark: Create Договір оферти in Wiki [Alex Batalov](https://github.com/ABatalov)  https://github.com/scholokov/qax-portal-2/wiki/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D1%96%D1%80-%D0%BE%D1%84%D0%B5%D1%80%D1%82%D0%B8
+:white_check_mark: Create Договір оферти in Wiki [Alex Batalov](https://github.com/ABatalov)  https://github.com/scholokov/qax-portal-2/wiki/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D1%96%D1%80-%D0%BE%D1%84%D0%B5%D1%80%D1%82%D0%B8 
+
+:black_square_button: Add task for UI/UX page of Esse page [Alex Batalov](https://github.com/ABatalov) 
+
 
 ## Desisions: 
 
