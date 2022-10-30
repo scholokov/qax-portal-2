@@ -8,9 +8,7 @@
 
 :white_check_mark: Ask PO about epics for MVP 
 
-## Action items: 
-
-Epics:  
+## Epics:  
 
 | Epic                |    MVP  | NAME |Status |
 |---------------------|---------|------|-------|   
@@ -19,6 +17,8 @@ Epics:
 |https://github.com/scholokov/qax-portal-2/issues/58|YES|Courses page |Design|
 |https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Testing|
 |https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Design and dev|  
+
+## Action items: 
 
 :black_square_button: We need content for PM and PA from Katya  [Alex Batalov](https://github.com/ABatalov)  
 
@@ -36,6 +36,7 @@ Epics:
 
 ## Desisions: 
 
+*
 
 ## Still not resolved tasks:    
 
@@ -44,3 +45,4 @@ Epics:
 
 ## Think about:    
 
+*
