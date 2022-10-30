@@ -40,7 +40,7 @@
 
 :white_check_mark: Add task for UI/UX page of Esse page [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/238  
 
-:white_check_mark: Add task to update design of Courses page [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/239  
+:white_check_mark: Add task to update design of Courses page [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/239   
 
 :black_square_button: Add requirements to Wiki of 404 page  [Alex Batalov](https://github.com/ABatalov) 
 
