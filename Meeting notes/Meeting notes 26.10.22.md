@@ -32,7 +32,7 @@
 
 :black_square_button: Create new requirements in Wiki of Essay and Comments [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
-:black_square_button: Change bug about Telegram link in Footer [Batalova Olha](https://github.com/BatalovaOlha) https://github.com/scholokov/qax-portal-2/issues/229
+:white_check_mark: Change bug about Telegram link in Footer [Batalova Olha](https://github.com/BatalovaOlha) https://github.com/scholokov/qax-portal-2/issues/229
 
 :white_check_mark: Create Договір оферти in Wiki [Alex Batalov](https://github.com/ABatalov)  https://github.com/scholokov/qax-portal-2/wiki/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D1%96%D1%80-%D0%BE%D1%84%D0%B5%D1%80%D1%82%D0%B8 
 
