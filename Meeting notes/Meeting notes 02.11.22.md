@@ -32,8 +32,6 @@
 
 :black_square_button: Create Sheets in Wiki for techskills (online and records courses) according to product version - [Alex Batalov](https://github.com/ABatalov) 
 
-:black_square_button: For QA team - add bug about incorrect sizing the page more than HD 
-
 :black_square_button: Create new requirements in Wiki of registration and autorisation [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
 :black_square_button: Create new requirements in Wiki of Essay and Comments [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
