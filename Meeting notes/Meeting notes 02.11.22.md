@@ -28,6 +28,11 @@
 
 :black_square_button: https://github.com/scholokov/qax-portal-2/issues/238 and https://github.com/scholokov/qax-portal-2/issues/239 please review this tasks [Denis Scholokov](https://github.com/scholokov)  
 
+:black_square_button: For QA Team add bugs for Registration, Password reset and Login 
+
+
+
+
 ## Desisions: 
 
 *
