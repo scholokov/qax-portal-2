@@ -36,6 +36,7 @@
 
 :black_square_button: Add new team members to Wiki [Alex Batalov](https://github.com/ABatalov) 
 
+:black_square_button: Add task implementation (update images) Home page [Andrey Butkov](https://github.com/ButKoff)
 
 ## Desisions: 
 
