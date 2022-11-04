@@ -32,7 +32,9 @@
 
 :black_square_button: For QA Team check Privacy policy page 
 
-:black_square_button: 
+:black_square_button: Remove commnets from Figma 
+
+:black_square_button: Add new team members to Wiki [Alex Batalov](https://github.com/ABatalov) 
 
 
 ## Desisions: 
@@ -53,3 +55,6 @@
 
 
 ## Think about:    
+
+* 
+
