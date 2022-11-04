@@ -59,5 +59,5 @@
 
 ## Think about:    
 
-* 
+:black_square_button: How to modify workflow Canceled and Resolved without push Closed or with push Closed 
 
