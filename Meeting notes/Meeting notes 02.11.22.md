@@ -22,7 +22,7 @@
 
 :black_square_button: Modify or Canceled task https://github.com/scholokov/qax-portal-2/issues/161 [Alex Batalov](https://github.com/ABatalov) 
 
-:black_square_button: https://github.com/scholokov/qax-portal-2/issues/86 please review this tasks [Denis Scholokov](https://github.com/scholokov) 
+✅ https://github.com/scholokov/qax-portal-2/issues/86 please review this tasks [Denis Scholokov](https://github.com/scholokov) 
 
 ✅ https://github.com/scholokov/qax-portal-2/issues/87 please review this tasks [Denis Scholokov](https://github.com/scholokov) 
 
