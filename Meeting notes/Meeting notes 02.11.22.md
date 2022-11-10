@@ -26,7 +26,7 @@
 
 :black_square_button: https://github.com/scholokov/qax-portal-2/issues/87 please review this tasks [Denis Scholokov](https://github.com/scholokov) 
 
-:black_square_button: Implementation Договір оферти https://github.com/scholokov/qax-portal-2/issues/236 [Denis Scholokov](https://github.com/scholokov)   
+✅ Implementation Договір оферти https://github.com/scholokov/qax-portal-2/issues/236 [Denis Scholokov](https://github.com/scholokov)   
 
 :black_square_button: https://github.com/scholokov/qax-portal-2/issues/238 please review this tasks [Denis Scholokov](https://github.com/scholokov)  
 
