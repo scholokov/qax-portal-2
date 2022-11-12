@@ -38,7 +38,7 @@
 
 :white_check_mark: Remove commnets from Figma [Batalova Olha](https://github.com/BatalovaOlha) 
 
-:black_square_button: Add new team members to Wiki [Alex Batalov](https://github.com/ABatalov) 
+:white_check_mark: Add new team members to Wiki [Alex Batalov](https://github.com/ABatalov) 
 
 :white_check_mark: Add task implementation (update images) Home page [Andrey Butkov](https://github.com/ButKoff) 
 
