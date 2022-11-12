@@ -33,6 +33,8 @@ task here: https://github.com/scholokov/qax-portal-2/issues/166 [Denys Khyzhniak
 
 :black_square_button: Add bug for Requirement of Registration form - country is obligatory point  [Denys Khyzhniak](https://github.com/Xalep4ik)  
 
+:black_square_button: додати в вимоги інформацію по реєстраційній формі, ось це https://portal.qax-camp.com.ua/auth-1-2/ беремо за основу , з цієї таблиці https://github.com/scholokov/qax-portal/wiki/1.-Requirements-v2.0#register-page-requirements треба взяти Телеграм, ГітХаб І ЛінкедІн :blush: а ще треба додати щось для чекбокса Privacy Policy : обовязковий, якесь повідомлення якщо не вибраний. І для Країни те ж саме мабуть. [Alex Batalov](https://github.com/ABatalov)  
+
 
 ## Desisions: 
 
