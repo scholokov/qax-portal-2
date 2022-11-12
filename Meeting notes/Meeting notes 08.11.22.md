@@ -27,6 +27,8 @@ task here: https://github.com/scholokov/qax-portal-2/issues/166 [Denys Khyzhniak
 
 :black_square_button: Please check Team page [Denis Scholokov](https://github.com/scholokov) 
 
+:black_square_button: Move form right to left side lamp in UI/UX design About us page [Andrey Butkov](https://github.com/ButKoff)
+
 
 ## Desisions: 
 
