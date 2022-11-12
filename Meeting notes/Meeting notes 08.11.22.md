@@ -22,6 +22,10 @@
 
 :white_check_mark: Start new Sprint 4 [Alex Batalov](https://github.com/ABatalov) 
 
+:black_square_button: Add bugs for UI/UX Design, link in Figma from this task: https://www.figma.com/file/UyTNSS6KCOdphdTev1HrLF/Portal-design?node-id=1979%3A247 
+task here: https://github.com/scholokov/qax-portal-2/issues/166 [Denys Khyzhniak](https://github.com/Xalep4ik) 
+
+
 
 
 ## Desisions: 
