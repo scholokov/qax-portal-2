@@ -20,6 +20,8 @@
 
 ## Action items: 
 
+:white_check_mark: Start new Sprint 4 [Alex Batalov](https://github.com/ABatalov) 
+
 
 
 ## Desisions: 
