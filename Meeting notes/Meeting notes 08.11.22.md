@@ -31,7 +31,7 @@ task here: https://github.com/scholokov/qax-portal-2/issues/166 [Denys Khyzhniak
 
 :black_square_button: Create UI/UX design of page for new student https://portal.qax-camp.com.ua/newby/ - [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) - https://github.com/scholokov/qax-portal-2/issues/274 
 
-
+:black_square_button: Add bug for Requirement of Registration form - country obligatory point [Denys Khyzhniak](https://github.com/Xalep4ik)  
 
 
 ## Desisions: 
