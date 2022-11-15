@@ -49,7 +49,7 @@ task here: https://github.com/scholokov/qax-portal-2/issues/166 [Denys Khyzhniak
 
 :black_square_button: For QA Team add bugs for Registration, Password reset and Login  
 
-:black_square_button: For QA Team check Privacy policy page 
+:white_check_mark: For QA Team check Privacy policy page 
 
 :black_square_button: Need content and photo of new trainer BA [Alex Batalov](https://github.com/ABatalov) 
 
