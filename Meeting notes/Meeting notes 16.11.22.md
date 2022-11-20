@@ -54,3 +54,5 @@ black_square_button: Need content and photo of new trainer BA [Alex Batalov](htt
 ## Think about:    
 
 :black_square_button: How to modify workflow Canceled and Resolved without push Closed or with push Closed  
+
+:black_square_button: Think about new images for Home page (but after release) 
