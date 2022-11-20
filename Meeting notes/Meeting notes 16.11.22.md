@@ -20,6 +20,7 @@
 
 ## Action items:   
 
+:black_square_button: Chech task #250  [Dmitriy Levkovskiy](https://github.com/dmitryylev)
 
 ## Desisions: 
 
