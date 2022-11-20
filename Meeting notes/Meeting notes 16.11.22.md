@@ -20,7 +20,7 @@
 
 ## Action items:   
 
-:black_square_button: Chech task #250  [Dmitriy Levkovskiy](https://github.com/dmitryylev)
+:black_square_button: Chech task https://github.com/scholokov/qax-portal-2/issues/250  [Dmitriy Levkovskiy](https://github.com/dmitryylev)
 
 ## Desisions: 
 
