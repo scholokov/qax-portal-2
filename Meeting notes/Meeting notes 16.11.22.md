@@ -24,7 +24,7 @@
 
 ## Desisions: 
 
-
+:black_square_button: We need to finalize all tasks for MVP during 2 weeks !!! [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
 ## Still not resolved tasks:  
 
