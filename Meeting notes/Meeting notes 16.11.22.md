@@ -28,7 +28,7 @@
 
 :black_square_button: We can start regression test of Port website before Release!!! - for all QA team 
 
-:black_square_button: Need more info column - please check all tasks/bugs (first take bugs from Need more info) [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)
+:black_square_button: Need more info column - please check all tasks/bugs (first take bugs from Need more info) [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) & QA Team! 
 
 ## Still not resolved tasks:  
 
