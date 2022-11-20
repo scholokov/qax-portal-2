@@ -31,8 +31,6 @@
 :black_square_button: Add bugs for UI/UX Design, link in Figma from this task: https://www.figma.com/file/UyTNSS6KCOdphdTev1HrLF/Portal-design?node-id=1979%3A247 
 task here: https://github.com/scholokov/qax-portal-2/issues/166 [Denys Khyzhniak](https://github.com/Xalep4ik) 
 
-:black_square_button: Move form right to left side lamp in UI/UX design About us page [Andrey Butkov](https://github.com/ButKoff) 
-
 :black_square_button: Create UI/UX design of page for new student https://portal.qax-camp.com.ua/newby/ - [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) - https://github.com/scholokov/qax-portal-2/issues/274 
 
 :black_square_button: Add bug for Requirement of Registration form - country is obligatory point  [Denys Khyzhniak](https://github.com/Xalep4ik)  
