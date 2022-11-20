@@ -26,7 +26,7 @@
 
 :black_square_button: We need to finalize all tasks for MVP during 2 weeks !!! [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
-:black_square_button: We can start regression test of Port website before Release!!! 
+:black_square_button: We can start regression test of Port website before Release!!! - for all QA team 
 
 ## Still not resolved tasks:  
 
