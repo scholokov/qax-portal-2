@@ -28,6 +28,8 @@
 
 :black_square_button: We can start regression test of Port website before Release!!! - for all QA team 
 
+:black_square_button: Need more info column - please check all tasks/bugs [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)
+
 ## Still not resolved tasks:  
 
 :black_square_button: Add bugs for UI/UX Design, link in Figma from this task: https://www.figma.com/file/UyTNSS6KCOdphdTev1HrLF/Portal-design?node-id=1979%3A247 
