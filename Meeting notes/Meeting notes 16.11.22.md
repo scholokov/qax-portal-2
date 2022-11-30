@@ -53,7 +53,7 @@ task here: https://github.com/scholokov/qax-portal-2/issues/166 [Denys Khyzhniak
 
 :black_square_button: For QA Team add bugs for Registration, Password reset and Login  
 
-black_square_button: Need content and photo of new trainer BA [Alex Batalov](https://github.com/ABatalov) 
+:black_square_button: Need content and photo of new trainer BA [Alex Batalov](https://github.com/ABatalov) 
 
 :black_square_button: Create Sheets in Wiki for techskills (online and records courses) according to product version - [Alex Batalov](https://github.com/ABatalov) 
 
