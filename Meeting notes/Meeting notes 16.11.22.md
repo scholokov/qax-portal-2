@@ -22,7 +22,7 @@
 
 :black_square_button: Chech task https://github.com/scholokov/qax-portal-2/issues/250  [Dmitriy Levkovskiy](https://github.com/dmitryylev)
 
-:black_square_button: Chach task https://github.com/scholokov/qax-portal-2/issues/166 and https://github.com/scholokov/qax-portal-2/issues/166 [Dmitriy Levkovskiy](https://github.com/dmitryylev)
+:white_check_mark: Chach task https://github.com/scholokov/qax-portal-2/issues/166 and https://github.com/scholokov/qax-portal-2/issues/166 [Dmitriy Levkovskiy](https://github.com/dmitryylev)
 
 
 ## Desisions: 
