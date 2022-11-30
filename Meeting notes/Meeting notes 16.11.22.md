@@ -65,4 +65,4 @@ task here: https://github.com/scholokov/qax-portal-2/issues/166 [Denys Khyzhniak
 
 :black_square_button: How to modify workflow Canceled and Resolved without push Closed or with push Closed  
 
-:black_square_button: Think about new images for Home page (but after release) 
+:white_check_mark:Think about new images for Home page (but after release) 
