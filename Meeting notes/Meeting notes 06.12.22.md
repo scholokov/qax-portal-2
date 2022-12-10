@@ -61,3 +61,5 @@
 ## Think about:  
 
 :black_square_button: How to modify workflow Canceled and Resolved without push Closed or with push Closed  
+
+:black_square_button: Road or Tree as idea for UI/UX design 
