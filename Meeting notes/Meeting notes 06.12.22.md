@@ -20,7 +20,7 @@
 |https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Release |
 |https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Release| 
 
-## Bugs sheet: 
+## Critical Bugs sheet: 
 
 | Bug                |   NAME of QA   | Status (Fix/Nonfixed) |
 |---------------------|---------|------| 
