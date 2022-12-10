@@ -22,9 +22,9 @@
 
 ## Bugs sheet: 
 
-| Bug                |   NAME of QA   | Coment |
+| Bug                |   NAME of QA   | Comment |
 |---------------------|---------|------| 
-
+|||
 
 
 
