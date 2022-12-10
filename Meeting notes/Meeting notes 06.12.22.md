@@ -36,6 +36,8 @@
 
 :black_square_button: Start to create UI/UX design of Page https://www.qax-camp.com.ua/qa-program/ [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) - so we need to create Task and transmit it to [Denis Scholokov](https://github.com/scholokov) for reviewing. 
 
+:black_square_button: Create retrospective after Release [Alex Batalov](https://github.com/ABatalov)  [Andrey Butkov](https://github.com/ButKoff) 
+
 
 
 ## Still not resolved tasks:  
