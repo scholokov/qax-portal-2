@@ -40,7 +40,9 @@
 
 :black_square_button: Create retrospective after Release [Alex Batalov](https://github.com/ABatalov)  [Andrey Butkov](https://github.com/ButKoff) 
 
+:black_square_button: Create tasks for new QA member [Alex Batalov](https://github.com/ABatalov), [Andrey Butkov](https://github.com/ButKoff)  
 
+:black_square_button: Regression test - please check [Alex Batalov](https://github.com/ABatalov), [Andrey Butkov](https://github.com/ButKoff)  
 
 ## Still not resolved tasks:  
 
