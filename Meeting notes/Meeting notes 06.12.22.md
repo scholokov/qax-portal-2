@@ -22,9 +22,17 @@
 
 ## Bugs sheet: 
 
-| Bug                |   NAME of QA   | Comment |
+| Bug                |   NAME of QA   | Status (Fix/Nonfixed) |
 |---------------------|---------|------| 
-|https://github.com/scholokov/qax-portal-2/issues/320|Olha Batalova | |
+|https://github.com/scholokov/qax-portal-2/issues/320|Olha Batalova |Nonfixed |
+
+## Action items: 
+
+
+## Still not resolved tasks:  
 
 
 
+## Think about:  
+
+:black_square_button: How to modify workflow Canceled and Resolved without push Closed or with push Closed  
