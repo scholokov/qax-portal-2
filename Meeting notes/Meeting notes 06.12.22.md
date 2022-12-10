@@ -28,9 +28,11 @@
 
 ## Action items: 
 
+:black_square_button: For QA team add critical bugs to the Sheet  
+
 :black_square_button: Create task to do clickable buttons on Course page [Alex Batalov](https://github.com/ABatalov) 
 
-:black_square_button: Start to create UI/UX design of Page https://www.qax-camp.com.ua/qa-program/ [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) 
+:black_square_button: Start to create UI/UX design of Page https://www.qax-camp.com.ua/qa-program/ [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) - so we need to create Task and transmit it to [Denis Scholokov](https://github.com/scholokov) for reviewing. 
 
 
 
