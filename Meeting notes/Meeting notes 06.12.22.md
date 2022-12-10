@@ -24,7 +24,7 @@
 
 | Bug                |   NAME of QA   | Comment |
 |---------------------|---------|------| 
-|||
+|https://github.com/scholokov/qax-portal-2/issues/320|Olha Batalova | |
 
 
 
