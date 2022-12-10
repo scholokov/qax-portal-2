@@ -43,15 +43,15 @@ task here: https://github.com/scholokov/qax-portal-2/issues/166 [Denys Khyzhniak
 
 :black_square_button: Create UI/UX design of page for new student https://portal.qax-camp.com.ua/newby/ - [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) - https://github.com/scholokov/qax-portal-2/issues/274 
 
-:black_square_button: Add bug for Requirement of Registration form - country is obligatory point  [Denys Khyzhniak](https://github.com/Xalep4ik)  
+:white_check_mark:  Add bug for Requirement of Registration form - country is obligatory point  [Denys Khyzhniak](https://github.com/Xalep4ik)  
 
 :black_square_button: додати в вимоги інформацію по реєстраційній формі, ось це https://portal.qax-camp.com.ua/auth-1-2/ беремо за основу , з цієї таблиці https://github.com/scholokov/qax-portal/wiki/1.-Requirements-v2.0#register-page-requirements треба взяти Телеграм, ГітХаб І ЛінкедІн :blush: а ще треба додати щось для чекбокса Privacy Policy : обовязковий, якесь повідомлення якщо не вибраний. І для Країни те ж саме мабуть. [Alex Batalov](https://github.com/ABatalov)  
 
-:black_square_button: Speed up UI/UX desing of courses page https://github.com/scholokov/qax-portal-2/issues/239 [Andrey Butkov](https://github.com/ButKoff) and [Alex Batalov](https://github.com/ABatalov) 
+:white_check_mark: Speed up UI/UX desing of courses page https://github.com/scholokov/qax-portal-2/issues/239 [Andrey Butkov](https://github.com/ButKoff) and [Alex Batalov](https://github.com/ABatalov) 
 
 :black_square_button: We need to get content for PM and PA from Katya  [Alex Batalov](https://github.com/ABatalov)  
 
-:black_square_button: For QA Team add bugs for Registration, Password reset and Login  
+:white_check_mark: For QA Team add bugs for Registration, Password reset and Login  
 
 :black_square_button: Need content and photo of new trainer BA [Alex Batalov](https://github.com/ABatalov) 
 
