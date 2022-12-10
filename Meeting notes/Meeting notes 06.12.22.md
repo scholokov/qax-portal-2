@@ -28,6 +28,11 @@
 
 ## Action items: 
 
+:black_square_button: Create task to do clickable buttons on Course page [Alex Batalov](https://github.com/ABatalov) 
+
+:black_square_button: Start to create UI/UX design of 
+
+
 
 ## Still not resolved tasks:  
 
