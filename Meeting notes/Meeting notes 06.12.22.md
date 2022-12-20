@@ -25,6 +25,11 @@
 | Bug                |   NAME of QA   | Status (Fix/Nonfixed) |
 |---------------------|---------|------| 
 |https://github.com/scholokov/qax-portal-2/issues/320|Olha Batalova |Nonfixed |
+|https://github.com/scholokov/qax-portal-2/issues/219|Ekaterina Nimenko |Nonfixed |
+|https://github.com/scholokov/qax-portal-2/issues/323|Ekaterina Nimenko |Nonfixed |
+|https://github.com/scholokov/qax-portal-2/issues/325|Ekaterina Nimenko |Nonfixed |
+|https://github.com/scholokov/qax-portal-2/issues/326|Ekaterina Nimenko |Nonfixed |
+|https://github.com/scholokov/qax-portal-2/issues/327|Ekaterina Nimenko |Nonfixed |
 
 ## Action items: 
 
