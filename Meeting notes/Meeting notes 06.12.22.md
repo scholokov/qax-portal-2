@@ -41,11 +41,11 @@
 
 :white_check_mark:  Create task to do clickable buttons on Course page [Alex Batalov](https://github.com/ABatalov) [#338](https://github.com/scholokov/qax-portal-2/issues/338)
 
-:black_square_button: Start to create UI/UX design of Page https://www.qax-camp.com.ua/qa-program/ [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) - so we need to create Task and transmit it to [Denis Scholokov](https://github.com/scholokov) for reviewing. 
+:white_check_mark:  Start to create UI/UX design of Page https://www.qax-camp.com.ua/qa-program/ [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) - so we need to create Task and transmit it to [Denis Scholokov](https://github.com/scholokov) for reviewing. https://github.com/scholokov/qax-portal-2/issues/321
 
 :black_square_button: Create retrospective after Release [Alex Batalov](https://github.com/ABatalov)  [Andrey Butkov](https://github.com/ButKoff) 
 
-:black_square_button: Create tasks for new QA member [Alex Batalov](https://github.com/ABatalov), [Andrey Butkov](https://github.com/ButKoff)  
+:white_check_mark: Create tasks for new QA member [Alex Batalov](https://github.com/ABatalov), [Andrey Butkov](https://github.com/ButKoff)  
 
 :black_square_button: Regression test - please check https://github.com/scholokov/qax-portal-2/issues/280 [Alex Batalov](https://github.com/ABatalov), [Andrey Butkov](https://github.com/ButKoff)  
 
@@ -53,9 +53,9 @@
 
 :black_square_button: Create UI/UX design of page for new student https://portal.qax-camp.com.ua/newby/ - [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) - https://github.com/scholokov/qax-portal-2/issues/274 
 
-:black_square_button: We need to get content for PM and PA from Katya  [Alex Batalov](https://github.com/ABatalov)  
+:white_check_mark: We need to get content for PM and PA from Katya  [Alex Batalov](https://github.com/ABatalov) move to backlog https://github.com/scholokov/qax-portal-2/issues/339  
 
-:black_square_button: Need content and photo of new trainer BA [Alex Batalov](https://github.com/ABatalov) 
+:white_check_mark: Need content and photo of new trainer BA [Alex Batalov](https://github.com/ABatalov)  move to backlog https://github.com/scholokov/qax-portal-2/issues/340
 
 :black_square_button: Create Sheets in Wiki for techskills (online and records courses) according to product version - [Alex Batalov](https://github.com/ABatalov) 
 
