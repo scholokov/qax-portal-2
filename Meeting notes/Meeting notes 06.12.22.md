@@ -39,7 +39,7 @@
 
 :black_square_button: For QA team check Course & Materials Pages 
 
-:white_check_mark:  Create task to do clickable buttons on Course page [Alex Batalov](https://github.com/ABatalov) #338
+:white_check_mark:  Create task to do clickable buttons on Course page [Alex Batalov](https://github.com/ABatalov) [#338](https://github.com/scholokov/qax-portal-2/issues/338)
 
 :black_square_button: Start to create UI/UX design of Page https://www.qax-camp.com.ua/qa-program/ [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) - so we need to create Task and transmit it to [Denis Scholokov](https://github.com/scholokov) for reviewing. 
 
