@@ -63,7 +63,7 @@
 
 :black_square_button: Create new requirements in Wiki of Essay and Comments [Alex Batalov](https://github.com/ABatalov), [Denis Scholokov](https://github.com/scholokov) 
 
-:black_square_button: додати в вимоги інформацію по реєстраційній формі, ось це https://portal.qax-camp.com.ua/auth-1-2/ беремо за основу , з цієї таблиці https://github.com/scholokov/qax-portal/wiki/1.-Requirements-v2.0#register-page-requirements треба взяти Телеграм, ГітХаб І ЛінкедІн :blush: а ще треба додати щось для чекбокса Privacy Policy : обовязковий, якесь повідомлення якщо не вибраний. І для Країни те ж саме мабуть. [Alex Batalov](https://github.com/ABatalov) 
+:white_check_mark: додати в вимоги інформацію по реєстраційній формі, ось це https://portal.qax-camp.com.ua/auth-1-2/ беремо за основу , з цієї таблиці https://github.com/scholokov/qax-portal/wiki/1.-Requirements-v2.0#register-page-requirements треба взяти Телеграм, ГітХаб І ЛінкедІн :blush: а ще треба додати щось для чекбокса Privacy Policy : обовязковий, якесь повідомлення якщо не вибраний. І для Країни те ж саме мабуть. [Alex Batalov](https://github.com/ABatalov) 
 
 ## Think about:  
 
