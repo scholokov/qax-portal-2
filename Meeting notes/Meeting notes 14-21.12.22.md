@@ -16,9 +16,10 @@
 |---------------------|---------|------|-------|-------|      
 |https://github.com/scholokov/qax-portal-2/issues/56 |YES| Home page| Release | no changes in the near future  |
 |https://github.com/scholokov/qax-portal-2/issues/57|YES| About us page| Release  | some changes in the near future - implement design |
-|https://github.com/scholokov/qax-portal-2/issues/58|YES| Courses page |Release |need to change, but we haven't design and content |
+|https://github.com/scholokov/qax-portal-2/issues/58|YES| Courses page |Release |need to change, but we haven't design and all content |
 |https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Release |no changes in the near future |
 |https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Release| no changes in the near future  |
+|https://github.com/scholokov/qax-portal-2/issues/61| YES| MATERIALS| Release | |need to change, but we haven't design and all content | 
 
 ## Critical Bugs sheet: 
 
