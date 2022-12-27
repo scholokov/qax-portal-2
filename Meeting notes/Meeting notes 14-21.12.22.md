@@ -12,13 +12,13 @@
 
 ## Epics:  
 
-| Epic                |    MVP  | NAME |Status |
-|---------------------|---------|------|-------|   
-|https://github.com/scholokov/qax-portal-2/issues/56 |YES| Home page| Release |
-|https://github.com/scholokov/qax-portal-2/issues/57|YES| About us page| Release  |
-|https://github.com/scholokov/qax-portal-2/issues/58|YES|Courses page |Release |
-|https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Release |
-|https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Release| 
+| Epic                |    MVP  | NAME |Status | Prior |
+|---------------------|---------|------|-------|-------|      
+|https://github.com/scholokov/qax-portal-2/issues/56 |YES| Home page| Release | no changes in the near future  |
+|https://github.com/scholokov/qax-portal-2/issues/57|YES| About us page| Release  | |
+|https://github.com/scholokov/qax-portal-2/issues/58|YES|Courses page |Release ||
+|https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Release ||
+|https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Release| |
 
 ## Critical Bugs sheet: 
 
