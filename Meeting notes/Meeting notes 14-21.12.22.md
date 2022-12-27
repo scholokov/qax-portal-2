@@ -34,8 +34,8 @@
 |https://github.com/scholokov/qax-portal-2/issues/327|Ekaterina Nimenko |Nonfixed | 
 
 ## Next Sprint Bugs fix: 
-| Bug                |   NAME of QA   | 
-|--------------------|----------------| 
+| Bug                |   NAME of QA   | Prior (High/Middle/Low)|
+|--------------------|----------------| |----------| 
 
 
 
