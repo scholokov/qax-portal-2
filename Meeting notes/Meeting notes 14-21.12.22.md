@@ -33,7 +33,15 @@
 |https://github.com/scholokov/qax-portal-2/issues/326|Ekaterina Nimenko |Nonfixed |
 |https://github.com/scholokov/qax-portal-2/issues/327|Ekaterina Nimenko |Nonfixed | 
 
+## Next Sprint Bugs fix: 
+| Bug                |   NAME of QA   | 
+|--------------------|----------------| 
+
+
+
 ## Action items:  
+
+:black_square_button: Proposition from QA team list of bugs for next Sprint. Please add bugs to sheet next sprint bugs fix. 
 
 :black_square_button: For Dev team Fix all critical bugs according to the sheet  
 
