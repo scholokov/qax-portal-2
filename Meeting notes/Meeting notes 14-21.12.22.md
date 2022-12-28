@@ -14,7 +14,7 @@
 
 | Epic                |    MVP  | NAME |Status | Prior |
 |---------------------|---------|------|-------|-------|      
-|https://github.com/scholokov/qax-portal-2/issues/56 |YES| Home page| Release | some changes in design the near future  |
+|https://github.com/scholokov/qax-portal-2/issues/56 |YES| Home page| Release | some changes in design the in the near future  |
 |https://github.com/scholokov/qax-portal-2/issues/57|YES| About us page| Release  | some changes in the near future - implement design |
 |https://github.com/scholokov/qax-portal-2/issues/58|YES| Courses page |Release |have to change, but we haven't design and all content |
 |https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Release |no changes in the near future |
