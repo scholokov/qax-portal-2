@@ -22,7 +22,7 @@
 |https://github.com/scholokov/qax-portal-2/issues/61| YES| MATERIALS| NEXT Release | have to change, but we haven't design and all content | 
 |https://github.com/scholokov/qax-portal-2/issues/60| YES| PROJECTS| NEXT Release | have to change, but we haven't design and all content | 
 
-## Critical Bugs sheet: 
+## Critical Bugs on production: 
 
 | Bug                |   NAME of QA   | Status (Fix/Nonfixed) |
 |---------------------|---------|------| 
