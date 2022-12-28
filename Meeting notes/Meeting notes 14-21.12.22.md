@@ -45,7 +45,7 @@
 
 :black_square_button: For Dev team Fix all critical bugs according to the sheet  
 
-:black_square_button: For QA team check Course & Materials Pages  
+:black_square_button: For QA team check Material Page   
 
 :black_square_button: Create retrospective after Release [Alex Batalov](https://github.com/ABatalov)  [Andrey Butkov](https://github.com/ButKoff) https://metroretro.io/board/LB2ACKPRFC01 
 
