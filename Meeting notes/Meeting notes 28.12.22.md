@@ -40,7 +40,15 @@
 ## Bugs for next sprint: 
 | Bug                |   NAME of QA   | Prior (High/Middle)|
 |--------------------|----------------|----------| 
-| #219               |Ekaterina Nimenko| Middle  |
+| https://github.com/scholokov/qax-portal-2/issues/219|Ekaterina Nimenko| Middle  |
+| https://github.com/scholokov/qax-portal-2/issues/226|Ekaterina Nimenko| Middle  |
+| https://github.com/scholokov/qax-portal-2/issues/323|Ekaterina Nimenko| High    |
+| https://github.com/scholokov/qax-portal-2/issues/399|Ekaterina Nimenko| High    |
+| https://github.com/scholokov/qax-portal-2/issues/400|Ekaterina Nimenko| High    |
+| https://github.com/scholokov/qax-portal-2/issues/417|Ekaterina Nimenko| High    |
+| https://github.com/scholokov/qax-portal-2/issues/418|Ekaterina Nimenko| High    |
+| https://github.com/scholokov/qax-portal-2/issues/419|Ekaterina Nimenko| High    |
+| https://github.com/scholokov/qax-portal-2/issues/420|Ekaterina Nimenko| High    |
 ## Action items:  
 
 :black_square_button: Proposition from QA team list of bugs for next Sprint. Please add bugs to sheet, than [Denis Scholokov](https://github.com/scholokov) will review them. 
