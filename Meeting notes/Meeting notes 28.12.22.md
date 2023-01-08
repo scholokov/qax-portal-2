@@ -40,7 +40,7 @@
 ## Bugs for next sprint: 
 | Bug                |   NAME of QA   | Prior (High/Middle)|
 |--------------------|----------------|----------| 
-
+| #219               |Ekaterina Nimenko| Middle  |
 ## Action items:  
 
 :black_square_button: Proposition from QA team list of bugs for next Sprint. Please add bugs to sheet, than [Denis Scholokov](https://github.com/scholokov) will review them. 
