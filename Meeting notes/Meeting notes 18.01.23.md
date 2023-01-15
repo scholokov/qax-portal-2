@@ -2,7 +2,7 @@
 
 ## Discussion topics:   
 
-:black_square_button: nТw board (questions & propositions) - 15 min 
+:black_square_button: new board (questions & propositions) - 15 min 
 
 :black_square_button: Ask QA team about critical bugs - 10 min 
 
