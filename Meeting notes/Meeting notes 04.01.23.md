@@ -60,10 +60,10 @@
 
 :black_square_button: For QA team check Material Page   
 
-:black_square_button: Make a short presentation of Retro for team. Create retrospective after Release [Alex Batalov](https://github.com/ABatalov)  [Andrey Butkov](https://github.com/ButKoff) https://metroretro.io/board/LB2ACKPRFC01 
+:white_check_mark: Make a short presentation of Retro for team. Create retrospective after Release [Alex Batalov](https://github.com/ABatalov)  [Andrey Butkov](https://github.com/ButKoff) https://metroretro.io/board/LB2ACKPRFC01 
 
 ## Think about:  
 
-:black_square_button: How to modify workflow Canceled and Resolved without push Closed or with push Closed  
+:white_check_mark: How to modify workflow Canceled and Resolved without push Closed or with push Closed  
 
 :black_square_button: Road or Tree as idea for UI/UX design 
