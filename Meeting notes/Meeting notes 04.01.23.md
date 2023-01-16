@@ -50,7 +50,7 @@
 | https://github.com/scholokov/qax-portal-2/issues/419|Ekaterina Nimenko| High    |
 | https://github.com/scholokov/qax-portal-2/issues/420|Ekaterina Nimenko| High    |
 
-| Bug                |   NAME of QA   | Prior (High/Middle/Low|
+| Bug                |   NAME of QA   | Prior (High/Middle/Low)|
 |--------------------|----------------|----------| 
 | https://github.com/scholokov/qax-portal-2/issues/55 |@BatalovaOlha| Middle  |
 | https://github.com/scholokov/qax-portal-2/issues/231|@BatalovaOlha| High    |
