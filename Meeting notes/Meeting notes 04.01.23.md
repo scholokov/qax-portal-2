@@ -50,6 +50,13 @@
 | https://github.com/scholokov/qax-portal-2/issues/419|Ekaterina Nimenko| High    |
 | https://github.com/scholokov/qax-portal-2/issues/420|Ekaterina Nimenko| High    |
 
+| Bug                |   NAME of QA   | Prior (High/Middle/Low|
+|--------------------|----------------|----------| 
+| https://github.com/scholokov/qax-portal-2/issues/55 |@BatalovaOlha| Middle  |
+| https://github.com/scholokov/qax-portal-2/issues/231|@BatalovaOlha| High    |
+| https://github.com/scholokov/qax-portal-2/issues/396|@BatalovaOlha| Low     |
+
+
 ## Action items:  
 
 :black_square_button: Make notes for Retro meeting 11/01/2023: https://metroretro.io/board/LB2ACKPRFC01 
