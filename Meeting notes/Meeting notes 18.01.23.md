@@ -19,7 +19,7 @@
 
 ![2023-01-15 13 55 50](https://user-images.githubusercontent.com/105543094/212546931-202953ce-7a4c-4bb7-a9e4-3742c2305e8f.jpg)
 
-## 2. Додати Labels: Documentation/Mobile
+## 2. Додати Labels: Mobile/Tablet
 
 ## 3. Оновити вимоги
 
