@@ -40,11 +40,9 @@ https://miro.com/welcomeonboard/TEJpVkE5cHQ5NmpVYzJVZ3ZwVnNpVTU5dWN0ZTdyREtyUFh4
 
 https://www.qax-camp.com.ua/qax-8-0-travel-2-0/
 
-7.1 На проекті є різні дошки - для чого вони
+7.1 Додати лінку на тест план
 
-7.2 Додати лінку на тест план
-
-7.3 Видатки - додати BrowserStack
+7.2 Видатки - додати BrowserStack
 
 ## 8. Урок GitHub
 
