@@ -54,7 +54,7 @@
 |--------------------|----------------|----------| -------------|
 | https://github.com/scholokov/qax-portal-2/issues/55 |@BatalovaOlha| Middle  |
 | https://github.com/scholokov/qax-portal-2/issues/231|@BatalovaOlha| High    |
-| https://github.com/scholokov/qax-portal-2/issues/396|@BatalovaOlha| Low     |
+| https://github.com/scholokov/qax-portal-2/issues/396|@BatalovaOlha| Low     |Fixed|
 | https://github.com/scholokov/qax-portal-2/issues/437|@BatalovaOlha| High    |
 | https://github.com/scholokov/qax-portal-2/issues/438|@BatalovaOlha| Middle  |Fixed|
 | https://github.com/scholokov/qax-portal-2/issues/439|@BatalovaOlha| High    |
