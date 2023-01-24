@@ -43,6 +43,6 @@ Clarify statuses: Ready for documentation and Ready for content
 | https://github.com/scholokov/qax-portal-2/issues/437|@BatalovaOlha| High    | Ready for content |
 | https://github.com/scholokov/qax-portal-2/issues/439|@BatalovaOlha| High    |Ready for content | 
 
-:black_square_button: discuss status of updating workflow: https://github.com/scholokov/qax-portal-2/wiki/6.0.-WorkFlow - 10 min max!!! 
+:black_square_button: Discuss status of updating workflow: https://github.com/scholokov/qax-portal-2/wiki/6.0.-WorkFlow - 10 min max!!! 
 
-:black_square_button: discuss new features UI/UX design - 15 min max!!! 
+:black_square_button: Discuss new features UI/UX design - 15 min max!!! 
