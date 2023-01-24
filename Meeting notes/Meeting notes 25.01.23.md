@@ -6,4 +6,4 @@
 
 My proposal close old status:  
 
-https://github.com/scholokov/qax-portal-2/blob/main/drive/QAX.png 
+![Status](https://github.com/scholokov/qax-portal-2/blob/main/drive/QAX.png)
