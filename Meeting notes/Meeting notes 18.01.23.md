@@ -51,10 +51,10 @@
 
 | Bug                |   NAME of QA   | Prior (High/Middle/Low)|Status  |
 |--------------------|----------------|----------| -------------|
-| https://github.com/scholokov/qax-portal-2/issues/55 |@BatalovaOlha| Middle  |
-| https://github.com/scholokov/qax-portal-2/issues/231|@BatalovaOlha| High    |
-| https://github.com/scholokov/qax-portal-2/issues/437|@BatalovaOlha| High    |
-| https://github.com/scholokov/qax-portal-2/issues/439|@BatalovaOlha| High    |
+| https://github.com/scholokov/qax-portal-2/issues/55 |@BatalovaOlha| Middle  | Ready for documentation |
+| https://github.com/scholokov/qax-portal-2/issues/231|@BatalovaOlha| High    | Need more info |
+| https://github.com/scholokov/qax-portal-2/issues/437|@BatalovaOlha| High    | Ready for content |
+| https://github.com/scholokov/qax-portal-2/issues/439|@BatalovaOlha| High    |Ready for content | 
 
 
 ## Action items:  
