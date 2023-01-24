@@ -12,7 +12,7 @@ Clarify statuses: Ready for documentation and Ready for content
 
 :black_square_button: Discuss testing and bugs of pages  https://www.qax-camp.com.ua/qa-program/ and https://www.qax-camp.com.ua/topics/  - 10 min max!!! 
 
-:black_square_button: Discuss all bugs in "Critical Bugs after release" and "Bugs for next sprint" - 20 min max!!! 
+:black_square_button: Discuss all bugs in "Critical Bugs after release" and "Bugs for next sprint" - 15 min max!!! 
 
 ## Critical Bugs after release:  
 
@@ -42,3 +42,7 @@ Clarify statuses: Ready for documentation and Ready for content
 | https://github.com/scholokov/qax-portal-2/issues/231|@BatalovaOlha| High    | Need more info |
 | https://github.com/scholokov/qax-portal-2/issues/437|@BatalovaOlha| High    | Ready for content |
 | https://github.com/scholokov/qax-portal-2/issues/439|@BatalovaOlha| High    |Ready for content | 
+
+:black_square_button: discuss status of updating workflow: https://github.com/scholokov/qax-portal-2/wiki/6.0.-WorkFlow - 10 min max!!! 
+
+:black_square_button: discuss new features UI/UX design - 15 min max!!! 
