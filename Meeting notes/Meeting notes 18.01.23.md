@@ -24,7 +24,7 @@
 |https://github.com/scholokov/qax-portal-2/issues/59|YES| Our trainers|Release |no changes in the near future |
 |https://github.com/scholokov/qax-portal-2/issues/62|YES| Registration and Authorization|Release| no changes in the near future  | 
 
-## Critical Bugs on production: 
+## Critical Bugs after release:  
 
 | Bug                |   NAME of QA   | Status (Fix/Nonfixed) |
 |---------------------|---------|------| 
@@ -48,9 +48,6 @@
 | https://github.com/scholokov/qax-portal-2/issues/418|Ekaterina Nimenko| High    | Testing in progress|
 | https://github.com/scholokov/qax-portal-2/issues/419|Ekaterina Nimenko| High    | Backlog |
 | https://github.com/scholokov/qax-portal-2/issues/420|Ekaterina Nimenko| High    | Backlog |
-
-| Bug                |   NAME of QA   | Prior (High/Middle/Low)|Status  |
-|--------------------|----------------|----------| -------------|
 | https://github.com/scholokov/qax-portal-2/issues/55 |@BatalovaOlha| Middle  | Ready for documentation |
 | https://github.com/scholokov/qax-portal-2/issues/231|@BatalovaOlha| High    | Need more info |
 | https://github.com/scholokov/qax-portal-2/issues/437|@BatalovaOlha| High    | Ready for content |
