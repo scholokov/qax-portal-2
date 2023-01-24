@@ -28,10 +28,8 @@
 
 | Bug                |   NAME of QA   | Status (Fix/Nonfixed) |
 |---------------------|---------|------| 
-|https://github.com/scholokov/qax-portal-2/issues/320|Olha Batalova | Resolved |
 |https://github.com/scholokov/qax-portal-2/issues/219|Ekaterina Nimenko | Open |
 |https://github.com/scholokov/qax-portal-2/issues/323|Ekaterina Nimenko | Ready for testing |
-|https://github.com/scholokov/qax-portal-2/issues/325|Ekaterina Nimenko | Resolved | 
 |https://github.com/scholokov/qax-portal-2/issues/417|Ekaterina Nimenko | Need more info|
 |https://github.com/scholokov/qax-portal-2/issues/418|Ekaterina Nimenko | Need more info| 
 |https://github.com/scholokov/qax-portal-2/issues/326|Ekaterina Nimenko | Open |
