@@ -39,8 +39,8 @@
 
 
 ## Bugs for next sprint: 
-| Bug                |   NAME of QA   | Prior (High/Middle)|
-|--------------------|----------------|----------| 
+| Bug                |   NAME of QA   | Prior (High/Middle)|Status  |
+|--------------------|----------------|----------| -------------|
 | https://github.com/scholokov/qax-portal-2/issues/219|Ekaterina Nimenko| Middle  | | 
 | https://github.com/scholokov/qax-portal-2/issues/226|Ekaterina Nimenko| Middle  | |
 | https://github.com/scholokov/qax-portal-2/issues/323|Ekaterina Nimenko| High    | |
