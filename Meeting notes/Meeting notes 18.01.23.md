@@ -39,12 +39,12 @@
 ## Bugs for next sprint: 
 | Bug                |   NAME of QA   | Prior (High/Middle)|Status  |
 |--------------------|----------------|----------| -------------|
-| https://github.com/scholokov/qax-portal-2/issues/219|Ekaterina Nimenko| Middle  | | 
-| https://github.com/scholokov/qax-portal-2/issues/226|Ekaterina Nimenko| Middle  | |
-| https://github.com/scholokov/qax-portal-2/issues/323|Ekaterina Nimenko| High    | |
-| https://github.com/scholokov/qax-portal-2/issues/399|Ekaterina Nimenko| High    | |
-| https://github.com/scholokov/qax-portal-2/issues/400|Ekaterina Nimenko| High    | |
-| https://github.com/scholokov/qax-portal-2/issues/417|Ekaterina Nimenko| High    | |
+| https://github.com/scholokov/qax-portal-2/issues/219|Ekaterina Nimenko| Middle  | 	Open| 
+| https://github.com/scholokov/qax-portal-2/issues/226|Ekaterina Nimenko| Middle  | Ready for testing|
+| https://github.com/scholokov/qax-portal-2/issues/323|Ekaterina Nimenko| High    |Ready for testing |
+| https://github.com/scholokov/qax-portal-2/issues/399|Ekaterina Nimenko| High    | Open|
+| https://github.com/scholokov/qax-portal-2/issues/400|Ekaterina Nimenko| High    | Need more info|
+| https://github.com/scholokov/qax-portal-2/issues/417|Ekaterina Nimenko| High    |Testing in progress |
 | https://github.com/scholokov/qax-portal-2/issues/418|Ekaterina Nimenko| High    | |
 | https://github.com/scholokov/qax-portal-2/issues/419|Ekaterina Nimenko| High    | |
 | https://github.com/scholokov/qax-portal-2/issues/420|Ekaterina Nimenko| High    | |
