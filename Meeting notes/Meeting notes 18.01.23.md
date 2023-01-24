@@ -59,13 +59,15 @@
 
 ## Action items:  
 
+:black_square_button: For QA team check Programm page https://www.qax-camp.com.ua/qa-program/
+
+:black_square_button: For QA team check Material Page   https://www.qax-camp.com.ua/topics/
+
 :white_check_mark: Make notes for Retro meeting 11/01/2023: https://metroretro.io/board/LB2ACKPRFC01 
 
 :black_square_button: Proposition from QA team list of bugs for next Sprint. Please add bugs to sheet, than [Denis Scholokov](https://github.com/scholokov) will review them. 
 
 :black_square_button: For Dev team Fix all critical bugs according to the sheet  
-
-:black_square_button: For QA team check Material Page   
 
 :white_check_mark: Make a short presentation of Retro for team. Create retrospective after Release [Alex Batalov](https://github.com/ABatalov)  [Andrey Butkov](https://github.com/ButKoff) https://metroretro.io/board/LB2ACKPRFC01 
 
