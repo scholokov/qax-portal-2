@@ -53,7 +53,7 @@
 | https://github.com/scholokov/qax-portal-2/issues/437|@BatalovaOlha| High    | Ready for content |
 | https://github.com/scholokov/qax-portal-2/issues/439|@BatalovaOlha| High    |Ready for content | 
 | https://github.com/scholokov/qax-portal-2/issues/457|@BatalovaOlha| Middle  | Ready for documentation |
-| https://github.com/scholokov/qax-portal-2/issues/454||@BatalovaOlha| Middle  | Ready for Dev|
+| https://github.com/scholokov/qax-portal-2/issues/454|@BatalovaOlha| Middle  | Ready for Dev|
 | https://github.com/scholokov/qax-portal-2/issues/452|@BatalovaOlha| High  | Ready for UI/UX|
 | https://github.com/scholokov/qax-portal-2/issues/451|@BatalovaOlha| High  | Ready for UI/UX|
 
