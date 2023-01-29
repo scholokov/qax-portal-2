@@ -66,7 +66,7 @@
 
 :white_check_mark: Make notes for Retro meeting 11/01/2023: https://metroretro.io/board/LB2ACKPRFC01 
 
-:black_square_button: Proposition from QA team list of bugs for next Sprint. Please add bugs to sheet, than [Denis Scholokov](https://github.com/scholokov) will review them. 
+:white_check_mark: Proposition from QA team list of bugs for next Sprint. Please add bugs to sheet, than [Denis Scholokov](https://github.com/scholokov) will review them. 
 
 :black_square_button: For Dev team Fix all critical bugs according to the sheet  
 
