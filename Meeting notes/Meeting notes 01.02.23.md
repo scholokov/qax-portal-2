@@ -15,7 +15,9 @@
  
 :black_square_button: For QA team check English for QA page https://www.qax-camp.com.ua/ - https://github.com/scholokov/qax-portal-2/issues/463 
 
-:black_square_button: For QA team check practise materials https://test.qax-camp.com.ua/courses.php?course=qa&name=en_practice  
+:black_square_button: For QA team check practice materials https://www.qax-camp.com.ua/courses/practise/ -  https://github.com/scholokov/qax-portal-2/issues/465 
+
+:black_square_button: For QA team check basic course https://www.qax-camp.com.ua/courses/q2-basic-cource/ - https://github.com/scholokov/qax-portal-2/issues/466 
 
 :black_square_button: For QA team check page theory for testing https://www.qax-camp.com.ua/courses/testing-theory/  - https://github.com/scholokov/qax-portal-2/issues/464
 
