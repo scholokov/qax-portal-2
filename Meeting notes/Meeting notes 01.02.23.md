@@ -2,13 +2,10 @@
 
 ## Discussion topics: 
 
-:black_check_mark: Discuss tasks for QA - 15 min max!!! 
+:black_square_button: Discuss tasks for QA - 15 min max!!! 
 
-:white_check_mark: Discuss all bugs in "Critical Bugs after release" and "Bugs for next sprint" - 15 min max!!! 
+:black_square_button: Discuss new features UI/UX design - 15 min max!!!  
 
-:white_check_mark: Discuss status of updating workflow: https://github.com/scholokov/qax-portal-2/wiki/6.0.-WorkFlow - 10 min max!!! 
-
-:white_check_mark: Discuss new features UI/UX design - 15 min max!!!  
 
 ## Action items:  
 
