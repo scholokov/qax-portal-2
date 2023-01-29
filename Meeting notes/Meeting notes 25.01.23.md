@@ -26,7 +26,9 @@
 
 :black_square_button: For QA team check page with cards https://github.com/scholokov/qax-portal-2/issues/368#issuecomment-1386060763 
 
-:black_square_button: For Dev team Fix all critical bugs according to the sheet   
+:black_square_button: For Dev team Fix all critical bugs according to the sheet  
+
+:black_square_button: Add bug about incorrect message for not registration user https://github.com/scholokov/qax-portal-2/blob/main/drive/Bug_new.PNG?raw=true. 
 
 ## Think about:  
 
