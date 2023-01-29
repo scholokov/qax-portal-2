@@ -4,7 +4,9 @@
 
 :black_square_button: Discuss tasks for QA - 15 min max!!! 
 
-:black_square_button: Discuss new features UI/UX design - 15 min max!!!  
+:black_square_button: Discuss new features UI/UX design - 15 min max!!! 
+
+:black_square_button: Discuss bugs about Requirements: https://github.com/scholokov/qax-portal-2/issues?q=is%3Aissue+is%3Aopen+label%3ARequirements 
 
 
 ## Action items:  
