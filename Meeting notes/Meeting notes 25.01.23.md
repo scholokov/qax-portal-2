@@ -14,7 +14,7 @@
 
 ## Action items:  
 
-:black_square_button: For QA team check Programm page https://www.qax-camp.com.ua/qa-program/
+:black_square_button: For QA team check Program page https://www.qax-camp.com.ua/qa-program/
 
 :black_square_button: For QA team check Material Page   https://www.qax-camp.com.ua/topics/
  
