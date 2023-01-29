@@ -27,10 +27,10 @@ Each meeting is in a folder labeled by the date of the meeting. Below is a list 
 
 | Meeting Title                                     | Date              | 
 |---------------------------------------------------|-------------------|
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2001.02.23.md) | 01.02.2022 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2025.01.23.md) | 25.01.2022 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2018.01.23.md) | 18.01.2022 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2004.01.23.md) | 04.01.2022 |
+| [Meeting notes](Meeting%20notes/Meeting%20notes%2001.02.23.md) | 01.02.2023 |
+| [Meeting notes](Meeting%20notes/Meeting%20notes%2025.01.23.md) | 25.01.2023 |
+| [Meeting notes](Meeting%20notes/Meeting%20notes%2018.01.23.md) | 18.01.2023 |
+| [Meeting notes](Meeting%20notes/Meeting%20notes%2004.01.23.md) | 04.01.2023 |
 | [Meeting notes](Meeting%20notes/Meeting%20notes%2028.12.22.md) | 28.12.2022 |
 | [Meeting notes](Meeting%20notes/Meeting%20notes%2014-21.12.22.md) | 14-21/12/2022 | 
 | [Meeting notes](Meeting%20notes/Meeting%20notes%2006.12.22.md) | 06/12/2022 | 
