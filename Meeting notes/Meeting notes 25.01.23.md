@@ -18,7 +18,9 @@
 
 :black_square_button: For QA team check Material Page   https://www.qax-camp.com.ua/topics/
  
-:black_square_button: For QA team check English for QA page https://www.qax-camp.com.ua/
+:black_square_button: For QA team check English for QA page https://www.qax-camp.com.ua/ 
+
+:black_square_button: For QA team check  practise materials https://test.qax-camp.com.ua/courses.php?course=qa&name=en_practice 
 
 :black_square_button: For Dev team Fix all critical bugs according to the sheet   
 
