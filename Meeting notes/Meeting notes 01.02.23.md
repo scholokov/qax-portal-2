@@ -15,7 +15,7 @@
 
 :black_square_button: For QA team check Material Page   https://www.qax-camp.com.ua/topics/ - https://github.com/scholokov/qax-portal-2/issues/462 
  
-:white_square_button: For QA team check English for QA page https://www.qax-camp.com.ua/ - https://github.com/scholokov/qax-portal-2/issues/463 
+:white_chek_mark: For QA team check English for QA page https://www.qax-camp.com.ua/ - https://github.com/scholokov/qax-portal-2/issues/463 
 
 :black_square_button: For QA team check practice materials https://www.qax-camp.com.ua/courses/practise/ -  https://github.com/scholokov/qax-portal-2/issues/465 
 
