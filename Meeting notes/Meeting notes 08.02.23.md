@@ -10,7 +10,9 @@
 
 :black_square_button: Discuss why so many tasks in Ready for testing column - 10 min max! 
 
-:black_square_button: Discuss next release: date and datails - 10 min max!  
+:black_square_button: Discuss next release: date and datails - 5 min max!  
+
+:black_square_button: Discuss how to connect Epics in new board - 5 min max!   
 
 ## Action items:   
 
