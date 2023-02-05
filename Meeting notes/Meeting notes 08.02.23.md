@@ -16,6 +16,8 @@
 
 ## Action items:   
 
+:black_square_button: Add task to implement new UI/UX design page courses  https://www.figma.com/file/UyTNSS6KCOdphdTev1HrLF/Portal-design?node-id=1412%3A425&t=rloDhTqgPTgv1736-0 and add task to add content  [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) 
+
 :black_square_button: For QA team check Program page https://www.qax-camp.com.ua/qa-program/ - https://github.com/scholokov/qax-portal-2/issues/461 
 
 :black_square_button: For QA team check Material Page   https://www.qax-camp.com.ua/topics/ - https://github.com/scholokov/qax-portal-2/issues/462  
