@@ -2,11 +2,13 @@
 
 ## Discussion topics:
 
-:black_square_button: Discuss tasks for QA - 15 min max!!! 
+:black_square_button: Discuss tasks for QA - 15 min max!
 
-:black_square_button: Discuss new features UI/UX design - 15 min max!!! 
+:black_square_button: Discuss new features UI/UX design - 15 min max!
 
-:black_square_button: Discuss task that relosved in UI/UX design to create tasks for Dev - 10 min maxx!!!  
+:black_square_button: Discuss task that relosved in UI/UX design to create tasks for Dev - 10 min max! 
+
+:black_square_button: discuss why so many tasks in Ready for testing column - 10 min max! 
 
 ## Action items:   
 
