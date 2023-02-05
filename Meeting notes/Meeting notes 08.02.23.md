@@ -53,12 +53,12 @@
 
 | Bug                |   NAME of QA   | Status (Fix/Nonfixed) |
 |---------------------|---------|------| 
-|https://github.com/scholokov/qax-portal-2/issues/219|Ekaterina Nimenko | Open |
+|https://github.com/scholokov/qax-portal-2/issues/219|Ekaterina Nimenko |  Ready for content |
 |https://github.com/scholokov/qax-portal-2/issues/323|Ekaterina Nimenko | Ready for testing |
-|https://github.com/scholokov/qax-portal-2/issues/417|Ekaterina Nimenko | Need more info|
-|https://github.com/scholokov/qax-portal-2/issues/418|Ekaterina Nimenko | Need more info| 
-|https://github.com/scholokov/qax-portal-2/issues/326|Ekaterina Nimenko | Open |
-|https://github.com/scholokov/qax-portal-2/issues/327|Ekaterina Nimenko |Ready to UI/UX|  
+|https://github.com/scholokov/qax-portal-2/issues/417|Ekaterina Nimenko | Testing in progress|
+|https://github.com/scholokov/qax-portal-2/issues/418|Ekaterina Nimenko | Testing in progress | 
+|https://github.com/scholokov/qax-portal-2/issues/326|Ekaterina Nimenko | Ready for content |
+|https://github.com/scholokov/qax-portal-2/issues/327|Ekaterina Nimenko | Ready for testing |  
 
 
 ## Bugs for this sprint: 
@@ -69,7 +69,7 @@
 | https://github.com/scholokov/qax-portal-2/issues/323|Ekaterina Nimenko| High    |Ready for testing |
 | https://github.com/scholokov/qax-portal-2/issues/399|Ekaterina Nimenko| High    | Ready for content |
 | https://github.com/scholokov/qax-portal-2/issues/400|Ekaterina Nimenko| High    | Need more info|
-| https://github.com/scholokov/qax-portal-2/issues/417|Ekaterina Nimenko| High    |Testing in progress |
+| https://github.com/scholokov/qax-portal-2/issues/417|Ekaterina Nimenko| High    | Testing in progress |
 | https://github.com/scholokov/qax-portal-2/issues/418|Ekaterina Nimenko| High    | Testing in progress|
 | https://github.com/scholokov/qax-portal-2/issues/419|Ekaterina Nimenko| High    | Backlog |
 | https://github.com/scholokov/qax-portal-2/issues/420|Ekaterina Nimenko| High    | Backlog |
