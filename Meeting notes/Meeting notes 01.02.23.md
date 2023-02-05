@@ -2,13 +2,13 @@
 
 ## Discussion topics: 
 
-:black_square_button: Discuss tasks for QA - 15 min max!!! 
+:white_check_mark: Discuss tasks for QA - 15 min max!!! 
 
-:black_square_button: Discuss new features UI/UX design - 15 min max!!! 
+:white_check_mark: Discuss new features UI/UX design - 15 min max!!! 
 
-:black_square_button: Discuss bugs about Requirements: https://github.com/scholokov/qax-portal-2/issues?q=is%3Aissue+is%3Aopen+label%3ARequirements  
+:white_check_mark: Discuss bugs about Requirements: https://github.com/scholokov/qax-portal-2/issues?q=is%3Aissue+is%3Aopen+label%3ARequirements  
 
-:black_square_button: Discuss this bug  https://github.com/scholokov/qax-portal-2/issues/470 - [QA_Dmitriy Levkovskiy](https://github.com/dmitryylev)
+:white_check_mark: Discuss this bug  https://github.com/scholokov/qax-portal-2/issues/470 - [QA_Dmitriy Levkovskiy](https://github.com/dmitryylev)
 
 
 ## Action items:  
