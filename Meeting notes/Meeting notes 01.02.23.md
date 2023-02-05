@@ -29,4 +29,4 @@
 
 :black_square_button: For Dev team Fix all critical bugs according to the sheet  
 
-:black_square_button: Add bug about incorrect message for not registration user ![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/Bug_new.PNG?raw=true.) 
+:white_check_mark: Add bug about incorrect message for not registration user ![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/Bug_new.PNG?raw=true.) 
