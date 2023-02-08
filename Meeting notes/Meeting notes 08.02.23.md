@@ -34,6 +34,7 @@
 
 ## Think about:  
 
+:black_square_button: think about personal account 
 
 :black_square_button: Road or Tree as idea for UI/UX design 
 
