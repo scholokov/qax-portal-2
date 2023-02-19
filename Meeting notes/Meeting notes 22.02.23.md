@@ -13,6 +13,14 @@
 
 :black_square_button: Add task to implement new UI/UX design of Courses page  https://www.figma.com/file/UyTNSS6KCOdphdTev1HrLF/Portal-design?node-id=1412%3A425&t=rloDhTqgPTgv1736-0 and add task to add content  [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) 
 
+:black_square_button: https://github.com/scholokov/qax-portal-2/issues/497 
+
+:black_square_button: https://github.com/scholokov/qax-portal-2/issues/482
+
+:black_square_button: https://github.com/scholokov/qax-portal-2/issues/481 
+
+:black_square_button: https://github.com/scholokov/qax-portal-2/issues/480
+
 :black_square_button: For Dev team Fix all critical bugs according to the sheet   
 
 ## Think about:  
