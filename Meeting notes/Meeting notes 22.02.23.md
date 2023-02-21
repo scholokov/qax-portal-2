@@ -36,7 +36,6 @@
 | Bug                |   NAME of QA   | Status (Fix/Nonfixed) |
 |---------------------|---------|------| 
 |https://github.com/scholokov/qax-portal-2/issues/219|Ekaterina Nimenko |  Ready for content |
-|https://github.com/scholokov/qax-portal-2/issues/323|Ekaterina Nimenko | Ready for testing |
 |https://github.com/scholokov/qax-portal-2/issues/417|Ekaterina Nimenko | Testing in progress|
 |https://github.com/scholokov/qax-portal-2/issues/418|Ekaterina Nimenko | Testing in progress | 
 |https://github.com/scholokov/qax-portal-2/issues/326|Ekaterina Nimenko | Ready for content |
@@ -48,7 +47,6 @@
 |--------------------|----------------|----------| -------------|
 | https://github.com/scholokov/qax-portal-2/issues/219|Ekaterina Nimenko| Middle  | Ready for content | 
 | https://github.com/scholokov/qax-portal-2/issues/226|Ekaterina Nimenko| Middle  | Ready for testing|
-| https://github.com/scholokov/qax-portal-2/issues/323|Ekaterina Nimenko| High    |Ready for testing |
 | https://github.com/scholokov/qax-portal-2/issues/399|Ekaterina Nimenko| High    | Ready for content |
 | https://github.com/scholokov/qax-portal-2/issues/400|Ekaterina Nimenko| High    | Need more info|
 | https://github.com/scholokov/qax-portal-2/issues/417|Ekaterina Nimenko| High    | Testing in progress |
