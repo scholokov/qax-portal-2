@@ -46,7 +46,6 @@
 | Bug                |   NAME of QA   | Prior (High/Middle)|Status  |
 |--------------------|----------------|----------| -------------|
 | https://github.com/scholokov/qax-portal-2/issues/219|Ekaterina Nimenko| Middle  | Ready for content | 
-| https://github.com/scholokov/qax-portal-2/issues/226|Ekaterina Nimenko| Middle  | Ready for testing|
 | https://github.com/scholokov/qax-portal-2/issues/399|Ekaterina Nimenko| High    | Ready for content |
 | https://github.com/scholokov/qax-portal-2/issues/400|Ekaterina Nimenko| High    | Need more info|
 | https://github.com/scholokov/qax-portal-2/issues/417|Ekaterina Nimenko| High    | Testing in progress |
