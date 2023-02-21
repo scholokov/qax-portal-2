@@ -39,7 +39,7 @@
 |https://github.com/scholokov/qax-portal-2/issues/417|Ekaterina Nimenko | Testing in progress|
 |https://github.com/scholokov/qax-portal-2/issues/418|Ekaterina Nimenko | Testing in progress | 
 |https://github.com/scholokov/qax-portal-2/issues/326|Ekaterina Nimenko | Ready for content |
-|https://github.com/scholokov/qax-portal-2/issues/327|Ekaterina Nimenko | Ready for testing |  
+|https://github.com/scholokov/qax-portal-2/issues/327|Ekaterina Nimenko |Testing in progress |  
 
 
 ## Bugs for this sprint: 
