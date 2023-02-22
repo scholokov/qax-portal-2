@@ -54,4 +54,4 @@
 | https://github.com/scholokov/qax-portal-2/issues/437|@BatalovaOlha| High    | Need more info |
 | https://github.com/scholokov/qax-portal-2/issues/457|@BatalovaOlha| Middle  | Ready for documentation |
 | https://github.com/scholokov/qax-portal-2/issues/454|@BatalovaOlha| Middle  | Ready for Dev|
-| https://github.com/scholokov/qax-portal-2/issues/452|@BatalovaOlha| High  | Testing in progress |
+
