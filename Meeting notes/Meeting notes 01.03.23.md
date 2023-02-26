@@ -13,6 +13,8 @@
 
 ## Action items:
 
+:black_square_button:  Create task for UI/UX design Page Practice https://www.qax-camp.com.ua/practice/ [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
+
 :black_square_button: For QA team  check courses for PM basic knowledge Page https://github.com/scholokov/qax-portal-2/issues/510 
 
 :black_square_button: For QA team check courses for Business Analyst Page https://github.com/scholokov/qax-portal-2/issues/509 
