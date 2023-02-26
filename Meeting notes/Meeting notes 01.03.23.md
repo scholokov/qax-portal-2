@@ -15,15 +15,15 @@
 
 :black_square_button: For QA team check courses in the record page https://github.com/scholokov/qax-portal-2/issues/505 
 
-:black_square_button: Check page for QA team https://github.com/scholokov/qax-portal-2/issues/497 
+:black_square_button: For QA team check QA courses page https://github.com/scholokov/qax-portal-2/issues/497 
 
-:black_square_button: Check page for QA team https://github.com/scholokov/qax-portal-2/issues/482
+:black_square_button: For QA team check update main menu https://github.com/scholokov/qax-portal-2/issues/482
 
-:black_square_button: Check page for QA team https://github.com/scholokov/qax-portal-2/issues/481 
+:black_square_button: For QA team check page work flow https://github.com/scholokov/qax-portal-2/issues/481 
 
-:black_square_button: Check page for QA team https://github.com/scholokov/qax-portal-2/issues/480 
+:black_square_button: For QA team check courses web technology https://github.com/scholokov/qax-portal-2/issues/480 
 
-:black_square_button: Check page for QA team https://github.com/scholokov/qax-portal-2/issues/498 
+:black_square_button: For QA team check Projects for practice page https://github.com/scholokov/qax-portal-2/issues/498 
 
 :black_square_button: For Dev team Fix all critical bugs according to the sheet   
 
