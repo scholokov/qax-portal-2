@@ -1,4 +1,4 @@
-# Meeting notes 01.03.23
+# Meeting notes 01.03.23 [Draft] 
 
 ## Discussion topics: 
 
@@ -11,7 +11,9 @@
 :black_square_button: Discuss general questions - 15 min 
 
 
-## Action items:  
+## Action items:
+
+:black_square_button: For QA team check currecny changes https://github.com/scholokov/qax-portal-2/issues/507 
 
 :black_square_button: For QA team check courses for QA Page https://github.com/scholokov/qax-portal-2/issues/506 
 
