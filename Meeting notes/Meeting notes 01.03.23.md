@@ -13,6 +13,7 @@
 
 ## Action items:   
 
+:black_square_button: For QA team check courses in the record page https://github.com/scholokov/qax-portal-2/issues/505 
 
 :black_square_button: Check page for QA team https://github.com/scholokov/qax-portal-2/issues/497 
 
