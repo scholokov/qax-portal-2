@@ -2,16 +2,16 @@
 
 ## Discussion topics: 
 
-:black_square_button: Discuss tasks for QA - 15 min max!
+:white_check_mark: Discuss tasks for QA - 15 min max!
 
-:black_square_button: Discuss new features UI/UX design - 15 min max!
+:white_check_mark: Discuss new features UI/UX design - 15 min max!
 
-:black_square_button: Discuss next release: date and datails - 5 min max!  
+:white_check_mark: Discuss next release: date and datails - 5 min max!  
   
 
 ## Action items:   
 
-:black_square_button: Add task to implement new UI/UX design of Courses page  https://www.figma.com/file/UyTNSS6KCOdphdTev1HrLF/Portal-design?node-id=1412%3A425&t=rloDhTqgPTgv1736-0 and add task to add content  [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) 
+:white_check_mark: Add task to implement new UI/UX design of Courses page  https://www.figma.com/file/UyTNSS6KCOdphdTev1HrLF/Portal-design?node-id=1412%3A425&t=rloDhTqgPTgv1736-0 and add task to add content  [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov) 
 
 :black_square_button: Check page for QA team https://github.com/scholokov/qax-portal-2/issues/497 
 
