@@ -11,7 +11,9 @@
 :black_square_button: Discuss general questions - 15 min 
 
 
-## Action items:   
+## Action items:  
+
+:black_square_button: For QA team check courses for QA Page https://github.com/scholokov/qax-portal-2/issues/506 
 
 :black_square_button: For QA team check courses in the record page https://github.com/scholokov/qax-portal-2/issues/505 
 
