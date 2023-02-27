@@ -19,13 +19,13 @@
 
 :black_square_button: For QA team  check courses for PM basic knowledge Page https://github.com/scholokov/qax-portal-2/issues/510 
 
-:black_square_button: For QA team check courses for Business Analyst Page https://github.com/scholokov/qax-portal-2/issues/509 
+:white_check_mark: For QA team check courses for Business Analyst Page https://github.com/scholokov/qax-portal-2/issues/509 
 
 :black_square_button: For QA team check courses for Project Manager Page https://github.com/scholokov/qax-portal-2/issues/508 
 
 :black_square_button: For QA team check currecny changes https://github.com/scholokov/qax-portal-2/issues/507 
 
-:black_square_button: For QA team check courses for QA Page https://github.com/scholokov/qax-portal-2/issues/506 
+:white_check_mark: For QA team check courses for QA Page https://github.com/scholokov/qax-portal-2/issues/506 
 
 :black_square_button: For QA team check courses in the record page https://github.com/scholokov/qax-portal-2/issues/505 
 
