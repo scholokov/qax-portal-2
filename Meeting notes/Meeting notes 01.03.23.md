@@ -23,7 +23,7 @@
 
 :black_square_button: For QA team check courses for Project Manager Page https://github.com/scholokov/qax-portal-2/issues/508 
 
-:black_square_button: For QA team check currecny changes https://github.com/scholokov/qax-portal-2/issues/507 
+:white_check_mark: For QA team check currecny changes https://github.com/scholokov/qax-portal-2/issues/507 
 
 :white_check_mark: For QA team check courses for QA Page https://github.com/scholokov/qax-portal-2/issues/506 
 
