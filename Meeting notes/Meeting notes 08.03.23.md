@@ -31,7 +31,13 @@
 
 :black_square_button: For QA team check Projects for practice page https://github.com/scholokov/qax-portal-2/issues/498 
 
-:black_square_button: For Dev team Fix all critical bugs according to the sheet   
+:black_square_button: For Dev team Fix all critical bugs according to the sheet    
+
+:black_square_button: Create tasks due to [Denis Scholokov](https://github.com/scholokov) message: 
+- Повністю сформовано курс "Базовий курс QA"
+- Курс "Основи проектного менеджменту" - додані уроки
+- Видалено курс "Рекомендована література" / процеси
+- Додано курс "Процеси" на 3 уроки до нього
 
 ## Think about:  
 
