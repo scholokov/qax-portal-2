@@ -25,8 +25,6 @@
 
 :black_square_button: For QA team check QA courses page https://github.com/scholokov/qax-portal-2/issues/497  
 
-:black_square_button: For QA team check courses web technology https://github.com/scholokov/qax-portal-2/issues/480 
-
 :black_square_button: For QA team check Projects for practice page https://github.com/scholokov/qax-portal-2/issues/498 
 
 :black_square_button: For Dev team Fix all critical bugs according to the sheet    
