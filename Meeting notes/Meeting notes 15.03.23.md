@@ -37,6 +37,11 @@
 - Видалено курс "Рекомендована література" / процеси
 - Додано курс "Процеси" на 3 уроки до нього
 
+https://github.com/scholokov/qax-portal-2/issues/577 
+https://github.com/scholokov/qax-portal-2/issues/578 
+https://github.com/scholokov/qax-portal-2/issues/579 
+https://github.com/scholokov/qax-portal-2/issues/580
+
 ## Think about:  
 
 :black_square_button: Think about personal account 
