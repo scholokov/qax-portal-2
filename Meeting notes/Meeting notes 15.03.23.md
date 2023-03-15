@@ -2,6 +2,8 @@
 
 ## Discussion topics:  
 
+:black_square_button: Discuss to add new QA for Portal from other projecs - 2 min 
+
 :black_square_button: Discuss requirements in Wiki - 15 min  
 
 :black_square_button: Discuss next release: date and datails - 15 min max! 
