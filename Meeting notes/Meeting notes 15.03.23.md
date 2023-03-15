@@ -2,13 +2,13 @@
 
 ## Discussion topics:  
 
-:white_check_mark:  Discuss requirements in Wiki - 15 min  
+:black_square_button: Discuss requirements in Wiki - 15 min  
 
-:white_check_mark:  Discuss next release: date and datails - 15 min max! 
+:black_square_button: Discuss next release: date and datails - 15 min max! 
 
-:white_check_mark:  Discuss general questions - 15 min  
+:black_square_button: Discuss general questions - 15 min  
 
-:white_check_mark:  Discuss new features UI/UX design - 15 min max! 
+:black_square_button: Discuss new features UI/UX design - 15 min max! 
 
 ## Action items:
 
