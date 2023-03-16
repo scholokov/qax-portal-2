@@ -27,7 +27,7 @@
 
 :black_square_button: For QA team check courses in the record page https://github.com/scholokov/qax-portal-2/issues/505  
 
-:black_square_button: For QA team check QA courses page https://github.com/scholokov/qax-portal-2/issues/497  
+:white_check_mark: For QA team check QA courses page https://github.com/scholokov/qax-portal-2/issues/497  
 
 :black_square_button: For QA team check Projects for practice page https://github.com/scholokov/qax-portal-2/issues/498 
 
