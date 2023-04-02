@@ -18,8 +18,6 @@
 
 :black_square_button: For QA team check courses in the record page https://github.com/scholokov/qax-portal-2/issues/505  
 
-:black_square_button: Create tasks due to [Denis Scholokov](https://github.com/scholokov) message: 
-
 :black_square_button: For QA team check basic course https://github.com/scholokov/qax-portal-2/issues/577 
 
 :black_square_button: For QA team check page "Основи проектного менеджменту" https://github.com/scholokov/qax-portal-2/issues/578 
