@@ -2,7 +2,7 @@
 
 ## Discussion topics: 
 
-:black_square_button: Discuss requirements in Wiki - 10 min  
+:black_square_button: Discuss requirements in Wiki - 10 min  [https://github.com/scholokov/qax-portal-2/wiki/1.7.1.-%D0%A3%D1%80%D0%BE%D0%BA] 
 
 :black_square_button: Discuss next release: date and datails - 10 min max! 
 
@@ -42,7 +42,8 @@
 
 :black_square_button: Think about personal account 
 
-:black_square_button: Road or Tree as idea for UI/UX design  
+:black_square_button: Road or Tree as idea for UI/UX design   
+
 
 ## Critical Bugs after release:  
 
