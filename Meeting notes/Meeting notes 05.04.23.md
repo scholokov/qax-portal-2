@@ -8,7 +8,7 @@
 
 :black_square_button: Discuss general questions - 15 min  
 
-:white_check_mark: Discuss new features UI/UX design - 15 min max! 
+:black_square_button: Discuss new features UI/UX design - 15 min max! 
 
 ## Action items:
 
