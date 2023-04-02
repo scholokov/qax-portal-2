@@ -26,7 +26,9 @@ Why here is status PM task: https://github.com/scholokov/qax-portal-2/issues/663
 
 :black_square_button: For QA team check removed course "Рекомендована література" / процеси" https://github.com/scholokov/qax-portal-2/issues/579 
 
-:black_square_button: For QA team check course "Процеси" на 3 уроки до нього" https://github.com/scholokov/qax-portal-2/issues/580
+:black_square_button: For QA team check course "Процеси" на 3 уроки до нього" https://github.com/scholokov/qax-portal-2/issues/580 
+
+:black_square_button: For QA team check  lesson for "Тестування вимог - Чат-Бот" https://github.com/scholokov/qax-portal-2/issues/658 
 
 :black_square_button: For Dev team Fix all critical bugs according to the sheet  
 
