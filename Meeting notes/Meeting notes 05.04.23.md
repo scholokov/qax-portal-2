@@ -14,7 +14,7 @@
 
 :black_square_button: Create content for basic Page (Who is PM)  [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/511
 
-:black_square_button: For QA team  check courses for PM basic knowledge Page https://github.com/scholokov/qax-portal-2/issues/510  
+:white_check_mark: For QA team  check courses for PM basic knowledge Page https://github.com/scholokov/qax-portal-2/issues/510  
 
 :white_check_mark: For QA team check courses for Project Manager Page https://github.com/scholokov/qax-portal-2/issues/508 [Nadiy Godovanets](https://github.com/Nadiyk)
 
