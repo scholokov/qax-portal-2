@@ -2,15 +2,15 @@
 
 ## Discussion topics: 
 
-:black_square_button: Discuss requirements in Wiki - 15 min  
+:black_square_button: Discuss requirements in Wiki - 10 min  
 
-:black_square_button: Discuss next release: date and datails - 15 min max! 
+:black_square_button: Discuss next release: date and datails - 10 min max! 
 
-:black_square_button: Discuss general questions - 15 min  
+:black_square_button: Discuss general questions - 10 min! 
 
-:black_square_button: Discuss new features UI/UX design - 15 min max!  
+:black_square_button: Discuss new features UI/UX design - 10 min max!  
 
-:black_square_button: Discuss about payment system 
+:black_square_button: Discuss about payment system - 10 min max! 
 
 ## Action items:
 
