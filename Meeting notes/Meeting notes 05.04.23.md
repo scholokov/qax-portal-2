@@ -8,7 +8,9 @@
 
 :black_square_button: Discuss general questions - 15 min  
 
-:black_square_button: Discuss new features UI/UX design - 15 min max! 
+:black_square_button: Discuss new features UI/UX design - 15 min max!  
+
+:black_square_button: Discuss about payment system 
 
 ## Action items:
 
