@@ -16,17 +16,7 @@
 
 :black_square_button: Create content for basic Page (Who is PM)  [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/511
 
-:white_check_mark: For QA team  check courses for PM basic knowledge Page https://github.com/scholokov/qax-portal-2/issues/510  
-
-:white_check_mark: For QA team check courses for Project Manager Page https://github.com/scholokov/qax-portal-2/issues/508 [Nadiy Godovanets](https://github.com/Nadiyk)
-
 :black_square_button: For QA team check courses in the record page https://github.com/scholokov/qax-portal-2/issues/505  
-
-:white_check_mark: For QA team check QA courses page https://github.com/scholokov/qax-portal-2/issues/497 [OlhaHutsman](https://github.com/OlhaHutsman)
-
-:white_check_mark: For QA team check Projects for practice page https://github.com/scholokov/qax-portal-2/issues/498 [Nadiy Godovanets](https://github.com/Nadiyk) 
-
-:black_square_button: For Dev team Fix all critical bugs according to the sheet    
 
 :black_square_button: Create tasks due to [Denis Scholokov](https://github.com/scholokov) message: 
 
@@ -37,6 +27,8 @@
 :black_square_button: For QA team check removed course "Рекомендована література" / процеси" https://github.com/scholokov/qax-portal-2/issues/579 
 
 :black_square_button: For QA team check course "Процеси" на 3 уроки до нього" https://github.com/scholokov/qax-portal-2/issues/580
+
+:black_square_button: For Dev team Fix all critical bugs according to the sheet  
 
 ## Think about:  
 
