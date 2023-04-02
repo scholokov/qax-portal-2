@@ -10,7 +10,9 @@
 
 :black_square_button: Discuss new features UI/UX design - 10 min max!  
 
-:black_square_button: Discuss about payment system - 10 min max! 
+:black_square_button: Discuss about payment system - 10 min max!  
+
+Why here is status PM task: https://github.com/scholokov/qax-portal-2/issues/663, https://github.com/scholokov/qax-portal-2/issues/664 ? 
 
 ## Action items:
 
