@@ -17,7 +17,7 @@
 :white_check_mark: Create new requirements for pages [Quality Assurance Engineer](https://github.com/scholokov/qax-portal-2/wiki/1.0.1.--Quality-Assurance-Engineer-(QA)), [Теорія тестування](https://github.com/scholokov/qax-portal-2/wiki/1.0.1.1.-%D0%A2%D0%B5%D0%BE%D1%80%D1%96%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F), 
 [PM](https://github.com/scholokov/qax-portal-2/wiki/1.0.2.-Project-Manager-(PM):), [BA](https://github.com/scholokov/qax-portal-2/wiki/1.0.3.-Business-Analyst-(BA)) [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
 
-:black_square_button: create new Sprint  [Alex Batalov](https://github.com/ABatalov) 
+:white_check_mark: create new Sprint  [Alex Batalov](https://github.com/ABatalov) 
 
 :black_square_button: Create content for basic Page (Who is PM)  [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/511
 
