@@ -14,7 +14,7 @@
 
 :black_square_button: Discuss about payment system - 10 min max!  
 
-:black_square_button: Why in this issues status [PM task] : https://github.com/scholokov/qax-portal-2/issues/663, https://github.com/scholokov/qax-portal-2/issues/664 ? [Andrey Butkov](https://github.com/ButKoff)
+:white_check_mark: Why in this issues status [PM task] : https://github.com/scholokov/qax-portal-2/issues/663, https://github.com/scholokov/qax-portal-2/issues/664 ? [Andrey Butkov](https://github.com/ButKoff)
 
 ## Action items:
 
@@ -32,9 +32,9 @@
 
 :black_square_button: For QA team check course "Процеси" на 3 уроки до нього" https://github.com/scholokov/qax-portal-2/issues/580 
 
-:black_square_button: For QA team check course "Тестування – Майстер-класи" https://github.com/scholokov/qax-portal-2/issues/651 [Olha Hutsman](https://github.com/OlhaHutsman)
+:white_check_mark: For QA team check course "Тестування – Майстер-класи" https://github.com/scholokov/qax-portal-2/issues/651 [Olha Hutsman](https://github.com/OlhaHutsman)
 
-:black_square_button: For QA team check lesson for "Тестування - Portal - Тест / SCRUM" https://github.com/scholokov/qax-portal-2/issues/657 [Natalia Huzyr](https://github.com/GNatala)
+:white_check_mark: For QA team check lesson for "Тестування - Portal - Тест / SCRUM" https://github.com/scholokov/qax-portal-2/issues/657 [Natalia Huzyr](https://github.com/GNatala)
 
 :black_square_button: For QA team check lesson for "Тестування вимог - Чат-Бот" https://github.com/scholokov/qax-portal-2/issues/658 
 
