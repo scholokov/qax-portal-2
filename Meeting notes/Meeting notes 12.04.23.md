@@ -16,17 +16,11 @@
 
 :black_square_button: Create content for basic Page (Who is PM)  [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/511
 
-:black_square_button: For QA team check courses in the record page https://github.com/scholokov/qax-portal-2/issues/505  
-
 :black_square_button: For QA team check basic course https://github.com/scholokov/qax-portal-2/issues/577 
-
-:black_square_button: For QA team check page "Основи проектного менеджменту" https://github.com/scholokov/qax-portal-2/issues/578 
 
 :black_square_button: For QA team check removed course "Рекомендована література" / процеси" https://github.com/scholokov/qax-portal-2/issues/579 
 
 :black_square_button: For QA team check course "Процеси" на 3 уроки до нього" https://github.com/scholokov/qax-portal-2/issues/580 
-
-:black_square_button: For QA team check lesson for "Тестування вимог - Чат-Бот" https://github.com/scholokov/qax-portal-2/issues/658 
 
 :black_square_button: For Dev team Fix all critical bugs according to the sheet  
 
