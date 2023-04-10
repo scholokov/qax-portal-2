@@ -26,10 +26,6 @@
 
 :black_square_button: For QA team check course "Процеси" на 3 уроки до нього" https://github.com/scholokov/qax-portal-2/issues/580 
 
-:white_check_mark: For QA team check course "Тестування – Майстер-класи" https://github.com/scholokov/qax-portal-2/issues/651 [Olha Hutsman](https://github.com/OlhaHutsman)
-
-:white_check_mark: For QA team check lesson for "Тестування - Portal - Тест / SCRUM" https://github.com/scholokov/qax-portal-2/issues/657 [Natalia Huzyr](https://github.com/GNatala)
-
 :black_square_button: For QA team check lesson for "Тестування вимог - Чат-Бот" https://github.com/scholokov/qax-portal-2/issues/658 
 
 :black_square_button: For Dev team Fix all critical bugs according to the sheet  
