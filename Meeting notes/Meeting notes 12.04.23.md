@@ -34,7 +34,8 @@
 ## Critical Bugs after release:  
 
 | Bug                |   NAME of QA   | Status (Fix/Nonfixed) |
-|https://github.com/scholokov/qax-portal-2/issues/326|Ekaterina Nimenko | Ready for testing |
+|--------------------|----------------|----------| 
+|https://github.com/scholokov/qax-portal-2/issues/326| Ekaterina Nimenko | Ready for testing |
 
 ## Bugs for this sprint: 
 | Bug                |   NAME of QA   | Prior (High/Middle)|Status  |
