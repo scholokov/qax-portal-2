@@ -1,16 +1,16 @@
-# Meeting notes 05.04.23 [Draft] 
+# Meeting notes 05.04.23
 
 ## Discussion topics: 
 
-:black_square_button: Discuss column Ready for Testing, too much issues  - 10 min max! 
+:white_check_mark:  Discuss column Ready for Testing, too much issues  - 10 min max! 
 
-:black_square_button: Discuss requirements in Wiki - 10 min  [https://github.com/scholokov/qax-portal-2/wiki/1.7.1.-%D0%A3%D1%80%D0%BE%D0%BA] 
+:white_check_mark: Discuss requirements in Wiki - 10 min  [https://github.com/scholokov/qax-portal-2/wiki/1.7.1.-%D0%A3%D1%80%D0%BE%D0%BA] 
 
-:black_square_button: Discuss general questions - 10 min! 
+:white_check_mark:  Discuss general questions - 10 min! 
 
-:black_square_button: Discuss new features UI/UX design - 10 min max!  
+:white_check_mark:  Discuss new features UI/UX design - 10 min max!  
 
-:black_square_button: Discuss about payment system - 10 min max!  
+:white_check_mark:  Discuss about payment system - 10 min max!  
 
 :white_check_mark: Why in this issues status [PM task] : https://github.com/scholokov/qax-portal-2/issues/663, https://github.com/scholokov/qax-portal-2/issues/664 ? [Andrey Butkov](https://github.com/ButKoff)
 
