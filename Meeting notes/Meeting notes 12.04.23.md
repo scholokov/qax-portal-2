@@ -12,6 +12,8 @@
 
 :black_square_button: Inspect column Ready for Testing [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
 
+:black_square_button: Create tasks to check this pages: https://www.qax-camp.com.ua/practice/, https://www.qax-camp.com.ua/calendars/, https://www.qax-camp.com.ua/events/qax-practice-outsource/ - [Andrey Butkov](https://github.com/ButKoff) 
+
 :black_square_button: Update requirements of Prictic page [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
 
 :black_square_button: Create content for basic Page (Who is PM)  [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/511
