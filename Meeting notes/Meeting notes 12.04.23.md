@@ -4,6 +4,8 @@
 
 :black_square_button: Discuss general questions - 10 min! 
 
+:black_square_button: Discuss update in requirements 
+
 :black_square_button: Discuss new features UI/UX design - 10 min max!  
 
 ## Action items:
