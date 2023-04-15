@@ -1,18 +1,18 @@
-# Meeting notes 12.04.23 [Draft] 
+# Meeting notes 12.04.23
 
 ## Discussion topics: 
 
-:black_square_button: Discuss general questions - 10 min! 
+:white_check_mark: Discuss general questions - 10 min! 
 
-:black_square_button: Discuss update in requirements 
+:white_check_mark: Discuss update in requirements 
 
-:black_square_button: Discuss new features UI/UX design - 10 min max!  
+:white_check_mark: Discuss new features UI/UX design - 10 min max!  
 
 ## Action items:
 
-:black_square_button: Inspect column Ready for Testing [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
+:white_check_mark: Inspect column Ready for Testing [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
 
-:black_square_button: Create tasks to check this pages: https://www.qax-camp.com.ua/practice/, https://www.qax-camp.com.ua/calendars/, https://www.qax-camp.com.ua/events/qax-practice-outsource/ - [Andrey Butkov](https://github.com/ButKoff) 
+:white_check_mark: Create tasks to check this pages: https://www.qax-camp.com.ua/practice/, https://www.qax-camp.com.ua/calendars/, https://www.qax-camp.com.ua/events/qax-practice-outsource/ - [Andrey Butkov](https://github.com/ButKoff) 
 
 :black_square_button: Update requirements of Prictic page [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
 
