@@ -10,13 +10,15 @@
 
 ## Action items:
 
-:black_square_button: Inspect column Ready for Testing [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
+:white_check_mark: Inspect column Ready for Testing [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
 
-:black_square_button: Create tasks to check this pages: https://www.qax-camp.com.ua/practice/, https://www.qax-camp.com.ua/calendars/, https://www.qax-camp.com.ua/events/qax-practice-outsource/ - [Andrey Butkov](https://github.com/ButKoff) 
+:white_check_mark: Create tasks to check this pages: https://www.qax-camp.com.ua/practice/, https://www.qax-camp.com.ua/calendars/, https://www.qax-camp.com.ua/events/qax-practice-outsource/ - [Andrey Butkov](https://github.com/ButKoff) 
 
 :black_square_button: Update requirements of Prictic page [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
 
-:black_square_button: Create content for basic Page (Who is PM)  [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/511
+:white_check_mark: Create content for basic Page (Who is PM)  [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/511 - https://docs.google.com/document/d/1J_fAF5q15PKZJ5Lc8iODmzQTlh_ncK3K9isVL7ASl5M/edit 
+
+:black_square_button: Start to create requirements of payments system [Denis Scholokov](https://github.com/scholokov), [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
 
 :black_square_button: For QA team check basic course https://github.com/scholokov/qax-portal-2/issues/577 
 
