@@ -20,9 +20,9 @@
 
 :black_square_button: Start to create requirements of payments system [Denis Scholokov](https://github.com/scholokov), [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
 
-:black_square_button: For QA team check basic course https://github.com/scholokov/qax-portal-2/issues/577 
+:white_check_mark: For QA team check basic course https://github.com/scholokov/qax-portal-2/issues/577 
 
-:black_square_button: For QA team check removed course "Рекомендована література" / процеси" https://github.com/scholokov/qax-portal-2/issues/579 
+:white_check_mark: For QA team check removed course "Рекомендована література" / процеси" https://github.com/scholokov/qax-portal-2/issues/579 
 
 :white_check_mark: For QA team check course "Процеси" на 3 уроки до нього" https://github.com/scholokov/qax-portal-2/issues/580 
 
