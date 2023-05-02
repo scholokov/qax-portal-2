@@ -2,11 +2,11 @@
 
 ## Discussion topics: 
 
-:black_square_button: Discuss general questions - 10 min!
+:white_check_mark: Discuss general questions - 10 min!
 
-:black_square_button: Discuss update in requirements 
+:white_check_mark: Discuss update in requirements 
 
-:black_square_button: Discuss new features UI/UX design - 10 min max!  
+:white_check_mark: Discuss new features UI/UX design - 10 min max!  
 
 ## Action items:
 
