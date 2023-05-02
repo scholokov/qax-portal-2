@@ -33,14 +33,3 @@ https://github.com/scholokov/qax-portal-2/issues/751
 :black_square_button: Road or Tree as idea for UI/UX design   
 
 
-## Critical Bugs after release:  
-
-| Bug                |   NAME of QA   | Status |
-|--------------------|----------------|----------| 
-|https://github.com/scholokov/qax-portal-2/issues/326| Ekaterina Nimenko | Done |
-
-## Bugs for this sprint: 
-| Bug                |   NAME of QA   | Prior (High/Middle)| Status  |
-|--------------------|----------------|----------| -------------|
-| https://github.com/scholokov/qax-portal-2/issues/231|@BatalovaOlha| High    | Ready for documentation|
-| https://github.com/scholokov/qax-portal-2/issues/457|@BatalovaOlha| Middle  | Ready for documentation |
