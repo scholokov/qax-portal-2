@@ -16,7 +16,15 @@
 
 :black_square_button: Start to create requirements of payments system [Denis Scholokov](https://github.com/scholokov), [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  
 
-:black_square_button: For Dev team Fix all critical bugs according to the sheet  
+:black_square_button: For Dev team Fix all critical bugs according to the sheet   
+
+:black_square_button: New tasks for QA: 
+https://github.com/scholokov/qax-portal-2/issues/757 
+https://github.com/scholokov/qax-portal-2/issues/756
+https://github.com/scholokov/qax-portal-2/issues/755
+https://github.com/scholokov/qax-portal-2/issues/753
+https://github.com/scholokov/qax-portal-2/issues/751
+
 
 ## Think about:  
 
