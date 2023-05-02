@@ -10,7 +10,7 @@
 
 ## Action items:
 
-:white_check_mark: Fix bugs from column Ready for documentation [Alex Batalov](https://github.com/ABatalov) 
+:white_check_mark: Fix bugs from column Ready for documentation [Alex Batalov](https://github.com/ABatalov) - https://github.com/users/scholokov/projects/1/views/8
 
 :white_check_mark: Create content for basic Page (Who is PM)  [Alex Batalov](https://github.com/ABatalov) https://github.com/scholokov/qax-portal-2/issues/511 - https://docs.google.com/document/d/1J_fAF5q15PKZJ5Lc8iODmzQTlh_ncK3K9isVL7ASl5M/edit 
 
