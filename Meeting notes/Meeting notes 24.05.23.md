@@ -20,24 +20,26 @@
 :black_square_button: For Dev team Fix all critical bugs according to the sheet   
 
 :black_square_button: New tasks for QA: 
-https://github.com/scholokov/qax-portal-2/issues/756
-https://github.com/scholokov/qax-portal-2/issues/755
-https://github.com/scholokov/qax-portal-2/issues/821 
-https://github.com/scholokov/qax-portal-2/issues/820
-https://github.com/scholokov/qax-portal-2/issues/818
-https://github.com/scholokov/qax-portal-2/issues/817
-https://github.com/scholokov/qax-portal-2/issues/816
-https://github.com/scholokov/qax-portal-2/issues/815
-https://github.com/scholokov/qax-portal-2/issues/814
-https://github.com/scholokov/qax-portal-2/issues/806
-https://github.com/scholokov/qax-portal-2/issues/805
-https://github.com/scholokov/qax-portal-2/issues/804
-https://github.com/scholokov/qax-portal-2/issues/803
-https://github.com/scholokov/qax-portal-2/issues/791 
-https://github.com/scholokov/qax-portal-2/issues/786
-https://github.com/scholokov/qax-portal-2/issues/780 
-https://github.com/scholokov/qax-portal-2/issues/772 
-https://github.com/scholokov/qax-portal-2/issues/771
+| Task                                  | Assignees            | 
+|---------------------------------------------------|-------------------|
+|https://github.com/scholokov/qax-portal-2/issues/756| |
+|https://github.com/scholokov/qax-portal-2/issues/755| |
+|https://github.com/scholokov/qax-portal-2/issues/821 | |
+|https://github.com/scholokov/qax-portal-2/issues/820| |
+|https://github.com/scholokov/qax-portal-2/issues/818| |
+|https://github.com/scholokov/qax-portal-2/issues/817| |
+|https://github.com/scholokov/qax-portal-2/issues/816| |
+|https://github.com/scholokov/qax-portal-2/issues/815| |
+|https://github.com/scholokov/qax-portal-2/issues/814| |
+|https://github.com/scholokov/qax-portal-2/issues/806| |
+|https://github.com/scholokov/qax-portal-2/issues/805| |
+|https://github.com/scholokov/qax-portal-2/issues/804| |
+|https://github.com/scholokov/qax-portal-2/issues/803| |
+|https://github.com/scholokov/qax-portal-2/issues/791 | |
+|https://github.com/scholokov/qax-portal-2/issues/786| |
+|https://github.com/scholokov/qax-portal-2/issues/780 | |
+|https://github.com/scholokov/qax-portal-2/issues/772 | |
+|https://github.com/scholokov/qax-portal-2/issues/771| |
 
 ## Think about:  
 
