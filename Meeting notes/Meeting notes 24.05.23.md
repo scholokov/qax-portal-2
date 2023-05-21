@@ -17,7 +17,7 @@
 
 :black_square_button: Start to create requirements of payments system [Denis Scholokov](https://github.com/scholokov), [Andrey Butkov](https://github.com/ButKoff), [Alex Batalov](https://github.com/ABatalov)  - waiting for contract from [Denis Scholokov](https://github.com/scholokov)
 
-:black_square_button: clarify status of the tasks for QA in Ready for testng cologne [Alex Batalov](https://github.com/ABatalov), [Andrey Butkov](https://github.com/ButKoff)  
+:black_square_button: Clarify status of the tasks for QA in Ready for testng cologne [Alex Batalov](https://github.com/ABatalov), [Andrey Butkov](https://github.com/ButKoff)  
 
 :black_square_button: New tasks for QA: 
 | Task                                  | Assignees            | 
