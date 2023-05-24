@@ -24,10 +24,10 @@
 |---------------------------------------------------|-------------------|
 |https://github.com/scholokov/qax-portal-2/issues/756| |
 |https://github.com/scholokov/qax-portal-2/issues/755| |
-|https://github.com/scholokov/qax-portal-2/issues/821 | |
+|https://github.com/scholokov/qax-portal-2/issues/821 |@BatalovaOlha |
 |https://github.com/scholokov/qax-portal-2/issues/820| |
 |https://github.com/scholokov/qax-portal-2/issues/818| |
-|https://github.com/scholokov/qax-portal-2/issues/817| |
+|https://github.com/scholokov/qax-portal-2/issues/817|@BatalovaOlha|
 |https://github.com/scholokov/qax-portal-2/issues/816| |
 |https://github.com/scholokov/qax-portal-2/issues/815| |
 |https://github.com/scholokov/qax-portal-2/issues/814| |
