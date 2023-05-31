@@ -22,7 +22,7 @@
 :black_square_button: New tasks for QA: 
 | Task                                  | Assignees            | 
 |---------------------------------------------------|-------------------|
-|https://github.com/scholokov/qax-portal-2/issues/756| |
+|https://github.com/scholokov/qax-portal-2/issues/756| Dima Nasonov |
 |https://github.com/scholokov/qax-portal-2/issues/755| |
 |https://github.com/scholokov/qax-portal-2/issues/821 |@BatalovaOlha |
 |https://github.com/scholokov/qax-portal-2/issues/820| |
