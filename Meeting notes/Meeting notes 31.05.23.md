@@ -45,7 +45,7 @@
 |https://github.com/scholokov/qax-portal-2/issues/839| |
 |https://github.com/scholokov/qax-portal-2/issues/830| |
 |https://github.com/scholokov/qax-portal-2/issues/829| |
-|https://github.com/scholokov/qax-portal-2/issues/828| |
+|https://github.com/scholokov/qax-portal-2/issues/828| Dima Nasonov |
 
 ## Think about:  
 
