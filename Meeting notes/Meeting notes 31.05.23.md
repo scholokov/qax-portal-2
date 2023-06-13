@@ -30,7 +30,7 @@
 |https://github.com/scholokov/qax-portal-2/issues/815| |
 |https://github.com/scholokov/qax-portal-2/issues/814| |
 |https://github.com/scholokov/qax-portal-2/issues/806| |
-|https://github.com/scholokov/qax-portal-2/issues/805| |
+|https://github.com/scholokov/qax-portal-2/issues/805| ODrobik |
 |https://github.com/scholokov/qax-portal-2/issues/804| |
 |https://github.com/scholokov/qax-portal-2/issues/803| |
 |https://github.com/scholokov/qax-portal-2/issues/791 | |
