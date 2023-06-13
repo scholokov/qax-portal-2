@@ -37,6 +37,7 @@
 |https://github.com/scholokov/qax-portal-2/issues/786| DmitriiNasonov |
 |https://github.com/scholokov/qax-portal-2/issues/780| Hennadii Prokopenko |
 |https://github.com/scholokov/qax-portal-2/issues/772| Hennadii Prokopenko |
+|https://github.com/scholokov/qax-portal-2/issues/751| Hennadii Prokopenko |
 |https://github.com/scholokov/qax-portal-2/issues/771| NadiaHodovanets| 
 |https://github.com/scholokov/qax-portal-2/issues/841| | 
 |https://github.com/scholokov/qax-portal-2/issues/840| |
@@ -54,6 +55,31 @@
 |https://github.com/scholokov/qax-portal-2/issues/861| BatalovaOlha |
 |https://github.com/scholokov/qax-portal-2/issues/817| BatalovaOlha |
 |https://github.com/scholokov/qax-portal-2/issues/821| BatalovaOlha |
+|https://github.com/scholokov/qax-portal-2/issues/862| |
+|https://github.com/scholokov/qax-portal-2/issues/859| |
+|https://github.com/scholokov/qax-portal-2/issues/858| |
+|https://github.com/scholokov/qax-portal-2/issues/840| |
+|https://github.com/scholokov/qax-portal-2/issues/852| |
+|https://github.com/scholokov/qax-portal-2/issues/864| |
+|https://github.com/scholokov/qax-portal-2/issues/865| |
+|https://github.com/scholokov/qax-portal-2/issues/866| |
+|https://github.com/scholokov/qax-portal-2/issues/867| |
+|https://github.com/scholokov/qax-portal-2/issues/868| |
+|https://github.com/scholokov/qax-portal-2/issues/869| |
+|https://github.com/scholokov/qax-portal-2/issues/870| |
+|https://github.com/scholokov/qax-portal-2/issues/871| |
+|https://github.com/scholokov/qax-portal-2/issues/872| |
+|https://github.com/scholokov/qax-portal-2/issues/874| |
+|https://github.com/scholokov/qax-portal-2/issues/875| |
+|https://github.com/scholokov/qax-portal-2/issues/876| |
+|https://github.com/scholokov/qax-portal-2/issues/877| |
+|https://github.com/scholokov/qax-portal-2/issues/878| |
+|https://github.com/scholokov/qax-portal-2/issues/879| |
+
+
+
+
+
 
 ## Think about:  
 
