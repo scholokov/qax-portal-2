@@ -23,21 +23,21 @@
 | Task                                  | Assignees            | 
 |---------------------------------------------------|-------------------|
 |https://github.com/scholokov/qax-portal-2/issues/756| Dima Nasonov |
-|https://github.com/scholokov/qax-portal-2/issues/755| |
+|https://github.com/scholokov/qax-portal-2/issues/755| NadiaHodovanets |
 |https://github.com/scholokov/qax-portal-2/issues/820| |
 |https://github.com/scholokov/qax-portal-2/issues/818| |
 |https://github.com/scholokov/qax-portal-2/issues/816| |
 |https://github.com/scholokov/qax-portal-2/issues/815| |
 |https://github.com/scholokov/qax-portal-2/issues/814| |
 |https://github.com/scholokov/qax-portal-2/issues/806| |
-|https://github.com/scholokov/qax-portal-2/issues/805| ODrobik |
-|https://github.com/scholokov/qax-portal-2/issues/804| |
-|https://github.com/scholokov/qax-portal-2/issues/803| |
-|https://github.com/scholokov/qax-portal-2/issues/791 | |
-|https://github.com/scholokov/qax-portal-2/issues/786| |
-|https://github.com/scholokov/qax-portal-2/issues/780 | |
-|https://github.com/scholokov/qax-portal-2/issues/772 | |
-|https://github.com/scholokov/qax-portal-2/issues/771| | 
+|https://github.com/scholokov/qax-portal-2/issues/805| Oksana Drobik |
+|https://github.com/scholokov/qax-portal-2/issues/804| Oksana Drobik |
+|https://github.com/scholokov/qax-portal-2/issues/803| Oksana Drobik |
+|https://github.com/scholokov/qax-portal-2/issues/791| DmitriiNasonov |
+|https://github.com/scholokov/qax-portal-2/issues/786| DmitriiNasonov |
+|https://github.com/scholokov/qax-portal-2/issues/780| Hennadii Prokopenko |
+|https://github.com/scholokov/qax-portal-2/issues/772| Hennadii Prokopenko |
+|https://github.com/scholokov/qax-portal-2/issues/771| NadiaHodovanets| 
 |https://github.com/scholokov/qax-portal-2/issues/841| | 
 |https://github.com/scholokov/qax-portal-2/issues/840| |
 |https://github.com/scholokov/qax-portal-2/issues/839| |
