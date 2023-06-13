@@ -24,10 +24,9 @@
 |---------------------------------------------------|-------------------|
 |https://github.com/scholokov/qax-portal-2/issues/756| Dima Nasonov |
 |https://github.com/scholokov/qax-portal-2/issues/755| |
-|https://github.com/scholokov/qax-portal-2/issues/821 |@BatalovaOlha |
+
 |https://github.com/scholokov/qax-portal-2/issues/820| |
 |https://github.com/scholokov/qax-portal-2/issues/818| |
-|https://github.com/scholokov/qax-portal-2/issues/817|@BatalovaOlha|
 |https://github.com/scholokov/qax-portal-2/issues/816| |
 |https://github.com/scholokov/qax-portal-2/issues/815| |
 |https://github.com/scholokov/qax-portal-2/issues/814| |
@@ -46,6 +45,16 @@
 |https://github.com/scholokov/qax-portal-2/issues/830| |
 |https://github.com/scholokov/qax-portal-2/issues/829| |
 |https://github.com/scholokov/qax-portal-2/issues/828| Dima Nasonov |
+|https://github.com/scholokov/qax-portal-2/issues/723| BatalovaOlha |
+|https://github.com/scholokov/qax-portal-2/issues/769| BatalovaOlha |
+|https://github.com/scholokov/qax-portal-2/issues/854| BatalovaOlha |
+|https://github.com/scholokov/qax-portal-2/issues/860| BatalovaOlha |
+|https://github.com/scholokov/qax-portal-2/issues/846| BatalovaOlha |
+|https://github.com/scholokov/qax-portal-2/issues/873| BatalovaOlha |
+|https://github.com/scholokov/qax-portal-2/issues/821| BatalovaOlha |
+|https://github.com/scholokov/qax-portal-2/issues/861| BatalovaOlha |
+|https://github.com/scholokov/qax-portal-2/issues/817| BatalovaOlha |
+|https://github.com/scholokov/qax-portal-2/issues/821| BatalovaOlha |
 
 ## Think about:  
 
