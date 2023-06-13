@@ -24,7 +24,6 @@
 |---------------------------------------------------|-------------------|
 |https://github.com/scholokov/qax-portal-2/issues/756| Dima Nasonov |
 |https://github.com/scholokov/qax-portal-2/issues/755| |
-
 |https://github.com/scholokov/qax-portal-2/issues/820| |
 |https://github.com/scholokov/qax-portal-2/issues/818| |
 |https://github.com/scholokov/qax-portal-2/issues/816| |
