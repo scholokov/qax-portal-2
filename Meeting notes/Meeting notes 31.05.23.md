@@ -54,7 +54,6 @@
 |https://github.com/scholokov/qax-portal-2/issues/821| BatalovaOlha |
 |https://github.com/scholokov/qax-portal-2/issues/861| BatalovaOlha |
 |https://github.com/scholokov/qax-portal-2/issues/817| BatalovaOlha |
-|https://github.com/scholokov/qax-portal-2/issues/821| BatalovaOlha |
 |https://github.com/scholokov/qax-portal-2/issues/862| |
 |https://github.com/scholokov/qax-portal-2/issues/859| |
 |https://github.com/scholokov/qax-portal-2/issues/858| |
