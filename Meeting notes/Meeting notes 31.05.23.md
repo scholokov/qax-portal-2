@@ -45,9 +45,9 @@
 |https://github.com/scholokov/qax-portal-2/issues/830| |
 |https://github.com/scholokov/qax-portal-2/issues/829| |
 |https://github.com/scholokov/qax-portal-2/issues/828| Dima Nasonov |
-|https://github.com/scholokov/qax-portal-2/issues/723| BatalovaOlha |
+|https://github.com/scholokov/qax-portal-2/issues/723| BatalovaOlha | waiting for the payment function to work|
 |https://github.com/scholokov/qax-portal-2/issues/769| BatalovaOlha |
-|https://github.com/scholokov/qax-portal-2/issues/854| BatalovaOlha |
+|https://github.com/scholokov/qax-portal-2/issues/854| BatalovaOlha | done|
 |https://github.com/scholokov/qax-portal-2/issues/860| BatalovaOlha |
 |https://github.com/scholokov/qax-portal-2/issues/846| BatalovaOlha |
 |https://github.com/scholokov/qax-portal-2/issues/873| BatalovaOlha |
