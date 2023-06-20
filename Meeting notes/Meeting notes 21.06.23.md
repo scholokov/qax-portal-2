@@ -23,14 +23,11 @@
 |https://github.com/scholokov/qax-portal-2/issues/820| |
 |https://github.com/scholokov/qax-portal-2/issues/818| |
 |https://github.com/scholokov/qax-portal-2/issues/816| |
-|https://github.com/scholokov/qax-portal-2/issues/814| |
-|https://github.com/scholokov/qax-portal-2/issues/806| |
 |https://github.com/scholokov/qax-portal-2/issues/841| | 
 |https://github.com/scholokov/qax-portal-2/issues/840| |
 |https://github.com/scholokov/qax-portal-2/issues/839| |
 |https://github.com/scholokov/qax-portal-2/issues/830| |
 |https://github.com/scholokov/qax-portal-2/issues/829| |
-|https://github.com/scholokov/qax-portal-2/issues/862| |
 |https://github.com/scholokov/qax-portal-2/issues/859| |
 |https://github.com/scholokov/qax-portal-2/issues/858| |
 |https://github.com/scholokov/qax-portal-2/issues/840| |
@@ -43,13 +40,31 @@
 |https://github.com/scholokov/qax-portal-2/issues/869| |
 |https://github.com/scholokov/qax-portal-2/issues/870| |
 |https://github.com/scholokov/qax-portal-2/issues/871| |
-|https://github.com/scholokov/qax-portal-2/issues/872| |
 |https://github.com/scholokov/qax-portal-2/issues/874| |
 |https://github.com/scholokov/qax-portal-2/issues/875| |
 |https://github.com/scholokov/qax-portal-2/issues/876| |
-|https://github.com/scholokov/qax-portal-2/issues/877| |
 |https://github.com/scholokov/qax-portal-2/issues/878| |
 |https://github.com/scholokov/qax-portal-2/issues/879| |
+|https://github.com/scholokov/qax-portal-2/issues/889| |
+|https://github.com/scholokov/qax-portal-2/issues/890| |
+|https://github.com/scholokov/qax-portal-2/issues/891| |
+|https://github.com/scholokov/qax-portal-2/issues/892| |
+|https://github.com/scholokov/qax-portal-2/issues/893| |
+|https://github.com/scholokov/qax-portal-2/issues/894| |
+|https://github.com/scholokov/qax-portal-2/issues/907| |
+|https://github.com/scholokov/qax-portal-2/issues/908| |
+|https://github.com/scholokov/qax-portal-2/issues/909| |
+|https://github.com/scholokov/qax-portal-2/issues/910| |
+|https://github.com/scholokov/qax-portal-2/issues/911| |
+|https://github.com/scholokov/qax-portal-2/issues/912| |
+|https://github.com/scholokov/qax-portal-2/issues/913| |
+|https://github.com/scholokov/qax-portal-2/issues/914| |
+|https://github.com/scholokov/qax-portal-2/issues/915| |
+|https://github.com/scholokov/qax-portal-2/issues/916| |
+|https://github.com/scholokov/qax-portal-2/issues/917| |
+|https://github.com/scholokov/qax-portal-2/issues/918| |
+|https://github.com/scholokov/qax-portal-2/issues/919| |
+
 
 
 Is this tasks actual for us? [Denis Scholokov](https://github.com/scholokov)
