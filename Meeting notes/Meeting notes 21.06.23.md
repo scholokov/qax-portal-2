@@ -74,7 +74,9 @@
 |https://github.com/scholokov/qax-portal-2/issues/879| |
 
 
-
+Is this tasks actual for us? 
+| Task                                  | Actual yes/no       | 
+|https://github.com/scholokov/qax-portal-2/issues/16|?| 
 
 
 
