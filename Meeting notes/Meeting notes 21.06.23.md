@@ -23,7 +23,6 @@
 |https://github.com/scholokov/qax-portal-2/issues/820| |
 |https://github.com/scholokov/qax-portal-2/issues/818| |
 |https://github.com/scholokov/qax-portal-2/issues/816| |
-|https://github.com/scholokov/qax-portal-2/issues/815| |
 |https://github.com/scholokov/qax-portal-2/issues/814| |
 |https://github.com/scholokov/qax-portal-2/issues/806| |
 |https://github.com/scholokov/qax-portal-2/issues/841| | 
