@@ -20,38 +20,17 @@
 :black_square_button: New tasks for QA: 
 | Task                                  | Assignees            | 
 |---------------------------------------------------|-------------------|
-|https://github.com/scholokov/qax-portal-2/issues/756| Dima Nasonov |
-|https://github.com/scholokov/qax-portal-2/issues/755| NadiaHodovanets |
 |https://github.com/scholokov/qax-portal-2/issues/820| |
 |https://github.com/scholokov/qax-portal-2/issues/818| |
 |https://github.com/scholokov/qax-portal-2/issues/816| |
 |https://github.com/scholokov/qax-portal-2/issues/815| |
 |https://github.com/scholokov/qax-portal-2/issues/814| |
 |https://github.com/scholokov/qax-portal-2/issues/806| |
-|https://github.com/scholokov/qax-portal-2/issues/805| Oksana Drobik |
-|https://github.com/scholokov/qax-portal-2/issues/804| Oksana Drobik |
-|https://github.com/scholokov/qax-portal-2/issues/803| Oksana Drobik |
-|https://github.com/scholokov/qax-portal-2/issues/791| DmitriiNasonov |
-|https://github.com/scholokov/qax-portal-2/issues/786| DmitriiNasonov |
-|https://github.com/scholokov/qax-portal-2/issues/780| Hennadii Prokopenko |
-|https://github.com/scholokov/qax-portal-2/issues/772| Hennadii Prokopenko |
-|https://github.com/scholokov/qax-portal-2/issues/751| Hennadii Prokopenko |
-|https://github.com/scholokov/qax-portal-2/issues/771| NadiaHodovanets| 
 |https://github.com/scholokov/qax-portal-2/issues/841| | 
 |https://github.com/scholokov/qax-portal-2/issues/840| |
 |https://github.com/scholokov/qax-portal-2/issues/839| |
 |https://github.com/scholokov/qax-portal-2/issues/830| |
 |https://github.com/scholokov/qax-portal-2/issues/829| |
-|https://github.com/scholokov/qax-portal-2/issues/828| Dima Nasonov |
-|https://github.com/scholokov/qax-portal-2/issues/723| BatalovaOlha | 
-|https://github.com/scholokov/qax-portal-2/issues/769| BatalovaOlha |
-|https://github.com/scholokov/qax-portal-2/issues/854| BatalovaOlha | 
-|https://github.com/scholokov/qax-portal-2/issues/860| BatalovaOlha |
-|https://github.com/scholokov/qax-portal-2/issues/846| BatalovaOlha |
-|https://github.com/scholokov/qax-portal-2/issues/873| BatalovaOlha |
-|https://github.com/scholokov/qax-portal-2/issues/821| BatalovaOlha |
-|https://github.com/scholokov/qax-portal-2/issues/861| BatalovaOlha |
-|https://github.com/scholokov/qax-portal-2/issues/817| BatalovaOlha |
 |https://github.com/scholokov/qax-portal-2/issues/862| |
 |https://github.com/scholokov/qax-portal-2/issues/859| |
 |https://github.com/scholokov/qax-portal-2/issues/858| |
