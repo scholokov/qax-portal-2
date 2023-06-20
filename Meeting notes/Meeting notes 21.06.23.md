@@ -74,10 +74,13 @@
 |https://github.com/scholokov/qax-portal-2/issues/879| |
 
 
-Is this tasks actual for us? 
+Is this tasks actual for us? [Denis Scholokov](https://github.com/scholokov)
 | Task                                  | Actual yes/no       | 
 |---------------------------------------------------|-------------------|
 |https://github.com/scholokov/qax-portal-2/issues/16|?| 
+|https://github.com/scholokov/qax-portal-2/issues/27|?|
+|https://github.com/scholokov/qax-portal-2/issues/15|?|
+
 
 
 
