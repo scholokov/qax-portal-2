@@ -50,7 +50,7 @@
 |https://github.com/scholokov/qax-portal-2/issues/891| |
 |https://github.com/scholokov/qax-portal-2/issues/892| |
 |https://github.com/scholokov/qax-portal-2/issues/893| |
-|https://github.com/scholokov/qax-portal-2/issues/894| |
+|https://github.com/scholokov/qax-portal-2/issues/894| Batalova |
 |https://github.com/scholokov/qax-portal-2/issues/907| |
 |https://github.com/scholokov/qax-portal-2/issues/908| |
 |https://github.com/scholokov/qax-portal-2/issues/909| |
