@@ -70,9 +70,9 @@
 Is this tasks actual for us? [Denis Scholokov](https://github.com/scholokov)
 | Task                                  | Actual yes/no       | 
 |---------------------------------------------------|-------------------|
-|https://github.com/scholokov/qax-portal-2/issues/16|?| 
-|https://github.com/scholokov/qax-portal-2/issues/27|?|
-|https://github.com/scholokov/qax-portal-2/issues/15|?|
+|https://github.com/scholokov/qax-portal-2/issues/16|частково реалізована. але ще в процесі| 
+|https://github.com/scholokov/qax-portal-2/issues/27|задача актуальна. відсутній дизайн|
+|https://github.com/scholokov/qax-portal-2/issues/15|задача виконана. переведено у тестування|
 
 
 
