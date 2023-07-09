@@ -22,8 +22,6 @@
 |---------------------------------------------------|-------------------|
 |https://github.com/scholokov/qax-portal-2/issues/859| |
 |https://github.com/scholokov/qax-portal-2/issues/858| |
-|https://github.com/scholokov/qax-portal-2/issues/840| |
-|https://github.com/scholokov/qax-portal-2/issues/852| |
 |https://github.com/scholokov/qax-portal-2/issues/864| |
 |https://github.com/scholokov/qax-portal-2/issues/865| |
 |https://github.com/scholokov/qax-portal-2/issues/866| |
