@@ -1,4 +1,4 @@
-# Meeting notes 09.07.23 
+# Meeting notes 12.07.23 [Draft] 
 
 ## Discussion topics: 
 
