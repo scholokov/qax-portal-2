@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
 
-### Our new project that started on 15/07/2022 💪
+### kick off of the project 15/07/2022 💪
 
 ### It'll be portal of our courses for students. :octocat: 
 
