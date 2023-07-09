@@ -20,7 +20,6 @@
 :black_square_button: New tasks for QA: 
 | Task                                  | Assignees            | 
 |---------------------------------------------------|-------------------|
-|https://github.com/scholokov/qax-portal-2/issues/820| |
 |https://github.com/scholokov/qax-portal-2/issues/818| |
 |https://github.com/scholokov/qax-portal-2/issues/816| |
 |https://github.com/scholokov/qax-portal-2/issues/841| | 
