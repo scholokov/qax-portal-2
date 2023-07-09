@@ -52,7 +52,39 @@
 |https://github.com/scholokov/qax-portal-2/issues/917| |
 |https://github.com/scholokov/qax-portal-2/issues/918| |
 |https://github.com/scholokov/qax-portal-2/issues/919| |
-
+|https://github.com/scholokov/qax-portal-2/issues/931| | 
+|https://github.com/scholokov/qax-portal-2/issues/933| |
+|https://github.com/scholokov/qax-portal-2/issues/934| |
+|https://github.com/scholokov/qax-portal-2/issues/935| |
+|https://github.com/scholokov/qax-portal-2/issues/938| |
+|https://github.com/scholokov/qax-portal-2/issues/939 | |
+|https://github.com/scholokov/qax-portal-2/issues/940| |
+|https://github.com/scholokov/qax-portal-2/issues/942| |
+|https://github.com/scholokov/qax-portal-2/issues/943| |
+|https://github.com/scholokov/qax-portal-2/issues/944| |
+|https://github.com/scholokov/qax-portal-2/issues/949| |
+|https://github.com/scholokov/qax-portal-2/issues/1022| |
+|https://github.com/scholokov/qax-portal-2/issues/1021| |
+|https://github.com/scholokov/qax-portal-2/issues/1020| |
+|https://github.com/scholokov/qax-portal-2/issues/1019| |
+|https://github.com/scholokov/qax-portal-2/issues/1018| |
+|https://github.com/scholokov/qax-portal-2/issues/1017| |
+|https://github.com/scholokov/qax-portal-2/issues/1016| |
+|https://github.com/scholokov/qax-portal-2/issues/1015| |
+|https://github.com/scholokov/qax-portal-2/issues/1014 | |
+|https://github.com/scholokov/qax-portal-2/issues/1013| |
+|https://github.com/scholokov/qax-portal-2/issues/1012| |
+|https://github.com/scholokov/qax-portal-2/issues/969| |
+|https://github.com/scholokov/qax-portal-2/issues/968| |
+|https://github.com/scholokov/qax-portal-2/issues/967| |
+|https://github.com/scholokov/qax-portal-2/issues/966| |
+|https://github.com/scholokov/qax-portal-2/issues/965| |
+|https://github.com/scholokov/qax-portal-2/issues/964| |
+|https://github.com/scholokov/qax-portal-2/issues/963| |
+|https://github.com/scholokov/qax-portal-2/issues/953| |
+|https://github.com/scholokov/qax-portal-2/issues/952| |
+|https://github.com/scholokov/qax-portal-2/issues/951| |
+|https://github.com/scholokov/qax-portal-2/issues/950| |
 
 
 
